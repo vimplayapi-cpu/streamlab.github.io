@@ -1,0 +1,208 @@
+{
+  "checkedAt": "2026-10-10T10:04:04.613Z",
+  "pageViewportChecks": 27,
+  "results": [
+    {
+      "route": "/blog/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 2539,
+      "brokenImages": []
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 11122,
+      "brokenImages": []
+    },
+    {
+      "route": "/company/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 3345,
+      "brokenImages": []
+    },
+    {
+      "route": "/games/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 4409,
+      "brokenImages": []
+    },
+    {
+      "route": "/join-us/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 1679,
+      "brokenImages": []
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 6228,
+      "brokenImages": []
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 4932,
+      "brokenImages": []
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 6108,
+      "brokenImages": []
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 5148,
+      "brokenImages": []
+    },
+    {
+      "route": "/blog/",
+      "width": 900,
+      "scrollWidth": 900,
+      "height": 2683,
+      "brokenImages": []
+    },
+    {
+      "route": "/",
+      "width": 900,
+      "scrollWidth": 900,
+      "height": 9125,
+      "brokenImages": []
+    },
+    {
+      "route": "/company/",
+      "width": 900,
+      "scrollWidth": 900,
+      "height": 3472,
+      "brokenImages": []
+    },
+    {
+      "route": "/games/",
+      "width": 900,
+      "scrollWidth": 900,
+      "height": 4272,
+      "brokenImages": []
+    },
+    {
+      "route": "/join-us/",
+      "width": 900,
+      "scrollWidth": 900,
+      "height": 1723,
+      "brokenImages": []
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions/",
+      "width": 900,
+      "scrollWidth": 900,
+      "height": 7401,
+      "brokenImages": []
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream/",
+      "width": 900,
+      "scrollWidth": 900,
+      "height": 5981,
+      "brokenImages": []
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention/",
+      "width": 900,
+      "scrollWidth": 900,
+      "height": 6925,
+      "brokenImages": []
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch/",
+      "width": 900,
+      "scrollWidth": 900,
+      "height": 6271,
+      "brokenImages": []
+    },
+    {
+      "route": "/blog/",
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 2825,
+      "brokenImages": []
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 9827,
+      "brokenImages": []
+    },
+    {
+      "route": "/company/",
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 5015,
+      "brokenImages": []
+    },
+    {
+      "route": "/games/",
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 3907,
+      "brokenImages": []
+    },
+    {
+      "route": "/join-us/",
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 1671,
+      "brokenImages": []
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions/",
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 12091,
+      "brokenImages": []
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream/",
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 10772,
+      "brokenImages": []
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention/",
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 11754,
+      "brokenImages": []
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch/",
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 11969,
+      "brokenImages": []
+    }
+  ],
+  "remoteRequests": [],
+  "assetFailures": [],
+  "javascriptErrors": [],
+  "interactions": [
+    "desktop and phone menu",
+    "Escape closes menu",
+    "newsletter consent and disconnected-form message",
+    "contact position selection",
+    "mocked form success and failure",
+    "article link sharing",
+    "article image lightbox"
+  ],
+  "forms": "Unconnected; network behavior tested with intercepted local requests only"
+}

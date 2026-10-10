@@ -1,0 +1,230 @@
+[
+  {
+    "route": "/blog",
+    "source": "https://www.streamlabplatform.com/blog",
+    "title": "news | streamlab platform",
+    "height": 2539,
+    "headings": [
+      "All Posts",
+      "Boost Your Gaming Experience with Advanced Solutions",
+      "Exploring the Future of Live Streaming Innovations and Technologies to Watch",
+      "Engaging Your Live Audience in 2025 Top 10 Strategies to Boost Viewer Retention",
+      "Creating Immersive Live Experiences: The Secrets Behind the Stream"
+    ],
+    "forms": []
+  },
+  {
+    "route": "/",
+    "source": "https://www.streamlabplatform.com",
+    "title": "Streamlab Platform – Enterprise Live Streaming & Broadcast Software for B2B Brands”.",
+    "height": 11122,
+    "headings": [
+      "Streamlab Studio",
+      "Streamlab Studio",
+      "Welcome to the World of StreamLab Studio",
+      "Welcome to the World of StreamLab Studio",
+      "Our Services",
+      "Monetization Tools",
+      "​",
+      "Affiliate Programs",
+      "Real-Time Analytics",
+      "Our Software",
+      "Streamlab live",
+      "Streamlab editor",
+      "Streamlab Analytics",
+      "Stream globally. Broadcast smart. Grow faster with Streamlab.",
+      "StreamSense",
+      "Unlock Opportunities: Partner with Us",
+      "Subscribe to our newsletter",
+      "Boost Your Gaming Experience with Advanced Solutions",
+      "Exploring the Future of Live Streaming Innovations and Technologies to Watch",
+      "Engaging Your Live Audience in 2025 Top 10 Strategies to Boost Viewer Retention"
+    ],
+    "forms": [
+      {
+        "id": "form-8c085809-c42e-4dcb-bbb7-4ee75febc4bd",
+        "label": "Subscribe 1",
+        "fields": [
+          {
+            "type": "email",
+            "label": "Email",
+            "required": true
+          },
+          {
+            "type": "checkbox",
+            "label": null,
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route": "/company",
+    "source": "https://www.streamlabplatform.com/company",
+    "title": "About | Streamlab platform",
+    "height": 3345,
+    "headings": [
+      "Streamlab Platform",
+      "What We Do",
+      "Our Core Services",
+      "​",
+      "Become Partner",
+      "Join Streamlab’s Partner Network and grow with one of the fastest-evolving live streaming ecosystems in the industry.\nWe collaborate with agencies, media companies, event organizers, resellers, and tech providers to deliver next-generation streaming experiences worldwide.\n\n Why Partner With Us",
+      "Proven Technology: Access our cutting-edge streaming software and infrastructure designed for reliability, scalability, and performance.",
+      "Custom Solutions: We tailor live streaming, broadcasting, and content delivery systems to your business needs.",
+      "Revenue Opportunities: Earn commissions and expand your service portfolio by reselling Streamlab software or offering our services to your clients.",
+      "Dedicated Support: Our partner success team provides onboarding, training, and 24/7 assistance.",
+      "Co-Marketing Benefits: Get featured on our platform, join joint promotions, and reach new audiences together.",
+      "Open Positions",
+      "Creative",
+      "Marketing",
+      "Analytics",
+      "R&D"
+    ],
+    "forms": []
+  },
+  {
+    "route": "/games",
+    "source": "https://www.streamlabplatform.com/games",
+    "title": "Streamlab Software Solutions | Streamlab platform",
+    "height": 4409,
+    "headings": [
+      "Our Softwere",
+      "Streamlab analytics",
+      "Streamsphere",
+      "Streamlab Edit pro",
+      "Sreamsanse"
+    ],
+    "forms": []
+  },
+  {
+    "route": "/join-us",
+    "source": "https://www.streamlabplatform.com/join-us",
+    "title": "become partner | Streamlab platform",
+    "height": 1679,
+    "headings": [
+      "Join Us!"
+    ],
+    "forms": [
+      {
+        "id": "form-86aef902-14da-407a-a435-f98a02d9c650",
+        "label": "Contact",
+        "fields": [
+          {
+            "type": "text",
+            "label": "First name",
+            "required": true
+          },
+          {
+            "type": "text",
+            "label": "Last name",
+            "required": true
+          },
+          {
+            "type": "email",
+            "label": "Email",
+            "required": true
+          },
+          {
+            "type": "text",
+            "label": "Phone. Phone",
+            "required": false
+          },
+          {
+            "type": "text",
+            "label": "Type your message here...",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route": "/post/boost-your-gaming-experience-with-advanced-solutions",
+    "source": "https://www.streamlabplatform.com/post/boost-your-gaming-experience-with-advanced-solutions",
+    "title": "Enhance Your Gaming Experience with Smart Solutions",
+    "height": 6228,
+    "headings": [
+      "Boost Your Gaming Experience with Advanced Solutions",
+      "Why You Should Improve Gaming Setups Today",
+      "Key Components to Improve Gaming Setups",
+      "1. The Right Hardware",
+      "2. Quality Display",
+      "3. Audio Equipment",
+      "4. Comfortable Accessories",
+      "5. Streaming Tools",
+      "How to Enable Positive Gaming Experience?",
+      "Optimize Your Space",
+      "Use Software Solutions",
+      "Set Realistic Goals",
+      "Take Breaks and Stay Healthy",
+      "Engage with Your Community",
+      "Tips to Enhance Your Streaming and Content Creation",
+      "Future-Proof Your Gaming Setup",
+      "Recent Posts",
+      "Comments"
+    ],
+    "forms": []
+  },
+  {
+    "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+    "source": "https://www.streamlabplatform.com/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+    "title": "Creating Immersive Live Experiences: The Secrets Behind the Stream",
+    "height": 4932,
+    "headings": [
+      "Creating Immersive Live Experiences: The Secrets Behind the Stream",
+      "The Importance of Planning",
+      "Choosing the Right Technology",
+      "Engaging the Audience",
+      "The Role of Rehearsals",
+      "Post-Event Analysis",
+      "Final Thoughts",
+      "Recent Posts",
+      "Comments"
+    ],
+    "forms": []
+  },
+  {
+    "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+    "source": "https://www.streamlabplatform.com/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+    "title": "Engaging Your Live Audience in 2025 Top 10 Strategies to Boost Viewer Retention",
+    "height": 6108,
+    "headings": [
+      "Engaging Your Live Audience in 2025 Top 10 Strategies to Boost Viewer Retention",
+      "1. Know Your Audience",
+      "2. Create a Unique Brand Identity",
+      "3. Interact in Real-Time",
+      "4. Use Engaging Visuals",
+      "5. Incorporate Gamification",
+      "6. Collaborate with Other Streamers",
+      "7. Maintain a Consistent Schedule",
+      "8. Utilize Viewer Feedback",
+      "9. Keep Content Fresh and Diverse",
+      "10. Leverage Technology",
+      "Final Thoughts",
+      "Recent Posts",
+      "Comments"
+    ],
+    "forms": []
+  },
+  {
+    "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+    "source": "https://www.streamlabplatform.com/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+    "title": "Exploring the Future of Live Streaming Innovations and Technologies to Watch",
+    "height": 5148,
+    "headings": [
+      "Exploring the Future of Live Streaming Innovations and Technologies to Watch",
+      "The Rise of AI-Driven Overlays",
+      "360° Streaming: A New Dimension of Engagement",
+      "Virtual Reality Concerts: The Future of Live Music",
+      "Ultra-Low Latency Systems: Real-Time Interaction",
+      "The Role of Augmented Reality in Live Streaming",
+      "The Impact of 5G on Live Streaming",
+      "Looking Ahead: Embracing the Future of Live Streaming",
+      "Recent Posts",
+      "Comments"
+    ],
+    "forms": []
+  }
+]

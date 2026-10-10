@@ -1,0 +1,177 @@
+{
+  "checkedAt": "2026-10-10T10:26:16.665Z",
+  "browser": "Microsoft Edge / Chromium",
+  "pageViewportChecks": 20,
+  "results": [
+    {
+      "route": "/blog",
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "broken": [],
+      "h1": 1
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "broken": [],
+      "h1": 1
+    },
+    {
+      "route": "/company",
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "broken": [],
+      "h1": 1
+    },
+    {
+      "route": "/games",
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "broken": [],
+      "h1": 1
+    },
+    {
+      "route": "/join-us",
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "broken": [],
+      "h1": 1
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions",
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "broken": [],
+      "h1": 1
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "broken": [],
+      "h1": 1
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "broken": [],
+      "h1": 1
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "broken": [],
+      "h1": 1
+    },
+    {
+      "route": "/privacy",
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "broken": [],
+      "h1": 1
+    },
+    {
+      "route": "/blog",
+      "width": 1440,
+      "height": 1000,
+      "scrollWidth": 1440,
+      "broken": [],
+      "h1": 1
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "height": 1000,
+      "scrollWidth": 1440,
+      "broken": [],
+      "h1": 1
+    },
+    {
+      "route": "/company",
+      "width": 1440,
+      "height": 1000,
+      "scrollWidth": 1440,
+      "broken": [],
+      "h1": 1
+    },
+    {
+      "route": "/games",
+      "width": 1440,
+      "height": 1000,
+      "scrollWidth": 1440,
+      "broken": [],
+      "h1": 1
+    },
+    {
+      "route": "/join-us",
+      "width": 1440,
+      "height": 1000,
+      "scrollWidth": 1440,
+      "broken": [],
+      "h1": 1
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions",
+      "width": 1440,
+      "height": 1000,
+      "scrollWidth": 1440,
+      "broken": [],
+      "h1": 1
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+      "width": 1440,
+      "height": 1000,
+      "scrollWidth": 1440,
+      "broken": [],
+      "h1": 1
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+      "width": 1440,
+      "height": 1000,
+      "scrollWidth": 1440,
+      "broken": [],
+      "h1": 1
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+      "width": 1440,
+      "height": 1000,
+      "scrollWidth": 1440,
+      "broken": [],
+      "h1": 1
+    },
+    {
+      "route": "/privacy",
+      "width": 1440,
+      "height": 1000,
+      "scrollWidth": 1440,
+      "broken": [],
+      "h1": 1
+    }
+  ],
+  "interactions": [
+    "product gallery arrows and anchors",
+    "job application preselection",
+    "reduced-motion GIF alternatives and lazy videos",
+    "motion toggle pauses videos",
+    "menu background inert",
+    "career link resolves",
+    "back to top"
+  ],
+  "errors": []
+}
