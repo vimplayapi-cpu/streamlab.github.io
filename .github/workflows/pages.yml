@@ -22,6 +22,10 @@ jobs:
         run: node scripts/check.mjs
       - uses: actions/configure-pages@v5
         id: pages
+      - name: Report Pages publishing source
+        run: node scripts/pages-status.mjs
+        env:
+          GH_TOKEN: ${{ github.token }}
       - name: Build static website
         run: node scripts/build.mjs
         env:
@@ -30,6 +34,9 @@ jobs:
       - uses: actions/upload-pages-artifact@v4
         with:
           path: dist
+          name: github-pages-${{ github.run_attempt }}
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-${{ github.run_attempt }}
