@@ -18,7 +18,7 @@ Requires Node.js 22 or later. No dependency installation is needed. Run `npm run
 
 ## Deployment
 
-Repository: https://github.com/vimplayapi-cpu/streamlab.github.io. Enable GitHub Pages with GitHub Actions as its source. The included workflow validates and publishes pushes to `main`, and also supports manual runs. The expected website address is https://vimplayapi-cpu.github.io/streamlab.github.io/. Hosting must be enabled before this address becomes available.
+Repository: https://github.com/vimplayapi-cpu/streamlab.github.io. Live migration preview: https://vimplayapi-cpu.github.io/streamlab.github.io/. GitHub Pages deployment succeeded on 10 October 2026. Keep GitHub Actions selected as the Pages publishing source. The included workflow validates and publishes pushes to `main`, and also supports manual runs.
 
 The workflow uses GitHub's official Pages actions: https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages. Relative paths support a repository subpath or a domain root.
 
@@ -34,7 +34,7 @@ Sharing and image expansion work. Persistent member login, comments, likes and c
 
 ## Verification and files
 
-The original pages passed 27 viewport checks, plus 70 additional checks including the privacy page. Tested widths: 320, 360, 390, 600, 768, 844, 900, 1024, 1440 and 1920, including landscape. Interaction checks cover menus, products, jobs, motion controls, sharing and mocked form responses. Browser testing used Edge/Chromium; Safari and Firefox should be checked before switching the production domain.
+The original pages passed 27 viewport checks, plus 70 additional checks including the privacy page. The final source passed 20 smoke checks, and the hosted website passed 20 mobile/desktop checks, product navigation and the custom 404. Tested widths: 320, 360, 390, 600, 768, 844, 900, 1024, 1440 and 1920, including landscape. Interaction checks cover menus, products, jobs, motion controls, sharing and mocked form responses. Browser testing used Edge/Chromium; Safari and Firefox should be checked before switching the production domain.
 
 Editable source is in `site/`, commands in `scripts/`, reports and screenshots in `migration/`. Generated `dist/` is excluded from Git. See `migration/STATUS.md` for publishing status.
 

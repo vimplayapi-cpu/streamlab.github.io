@@ -1,0 +1,13 @@
+{
+  "repository": "vimplayapi-cpu/streamlab.github.io",
+  "repositoryUrl": "https://github.com/vimplayapi-cpu/streamlab.github.io",
+  "websiteUrl": "https://vimplayapi-cpu.github.io/streamlab.github.io/",
+  "sourceCommit": "bc10a367c1b563a6e9b0d82bbe3db8e36946bbc4",
+  "workflowRun": "https://github.com/vimplayapi-cpu/streamlab.github.io/actions/runs/38047107104",
+  "workflowResult": "success after Pages was enabled",
+  "publishingSource": "GitHub Actions; confirmed by owner",
+  "verifiedHostedPageViewportChecks": 20,
+  "verifiedHostedInteractions": ["product navigation", "custom 404"],
+  "indexing": "migration preview; noindex",
+  "remaining": ["connect form submission services", "confirm enquiry email", "migrate backend records if required", "move production domain when ready"]
+}

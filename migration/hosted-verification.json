@@ -1,0 +1,149 @@
+{
+  "checkedAt": "2026-10-10T11:12:54.090Z",
+  "base": "https://vimplayapi-cpu.github.io/streamlab.github.io/",
+  "browser": "Microsoft Edge / Chromium",
+  "checks": [
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/blog/",
+      "width": 390,
+      "scrollWidth": 390,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/blog/"
+    },
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/",
+      "width": 390,
+      "scrollWidth": 390,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/"
+    },
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/company/",
+      "width": 390,
+      "scrollWidth": 390,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/company/"
+    },
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/games/",
+      "width": 390,
+      "scrollWidth": 390,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/games/"
+    },
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/join-us/",
+      "width": 390,
+      "scrollWidth": 390,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/join-us/"
+    },
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/post/boost-your-gaming-experience-with-advanced-solutions/",
+      "width": 390,
+      "scrollWidth": 390,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/post/boost-your-gaming-experience-with-advanced-solutions/"
+    },
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/post/creating-immersive-live-experiences-the-secrets-behind-the-stream/",
+      "width": 390,
+      "scrollWidth": 390,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/post/creating-immersive-live-experiences-the-secrets-behind-the-stream/"
+    },
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention/",
+      "width": 390,
+      "scrollWidth": 390,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention/"
+    },
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch/",
+      "width": 390,
+      "scrollWidth": 390,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch/"
+    },
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/privacy/",
+      "width": 390,
+      "scrollWidth": 390,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/privacy/"
+    },
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/blog/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/blog/"
+    },
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/"
+    },
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/company/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/company/"
+    },
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/games/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/games/"
+    },
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/join-us/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/join-us/"
+    },
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/post/boost-your-gaming-experience-with-advanced-solutions/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/post/boost-your-gaming-experience-with-advanced-solutions/"
+    },
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/post/creating-immersive-live-experiences-the-secrets-behind-the-stream/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/post/creating-immersive-live-experiences-the-secrets-behind-the-stream/"
+    },
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention/"
+    },
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch/"
+    },
+    {
+      "url": "https://vimplayapi-cpu.github.io/streamlab.github.io/privacy/",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "broken": [],
+      "canonical": "https://vimplayapi-cpu.github.io/streamlab.github.io/privacy/"
+    }
+  ],
+  "errors": [],
+  "custom404": true
+}
