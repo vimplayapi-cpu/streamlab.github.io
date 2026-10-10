@@ -1,0 +1,1006 @@
+[
+  {
+    "route": "/",
+    "animations": [
+      {
+        "target": "comp-lkryn7id",
+        "tag": "DIV",
+        "text": "Streamlab B2B Live Streaming & Broadcasting Partner\n\n\n\n\nExplore",
+        "html": "<div id=\"comp-lkryn7id\" role=\"\" class=\"HFEOE3 NaeT1r comp-lkryn7id-container comp-lkryn7id wixui-box\" dir=\"ltr\"><div aria-hidden=\"true\" class=\"jdJeEr NYfD3h inner-box wixui-box\"></",
+        "images": [],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "steps(1)",
+            "composite": "auto",
+            "opacity": "0",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "replace",
+            "transform": "none",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0.000001,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "auto",
+            "transform": "translate(0px, 60px) rotate(0deg)",
+            "opacity": "0",
+            "computedOffset": 0.000001
+          },
+          {
+            "offset": 1,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "auto",
+            "transform": "translate(0px) rotate(0deg)",
+            "opacity": "1",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 1,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "state": "paused",
+        "currentTime": 0,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "comp-lks3iqh7",
+        "tag": "DIV",
+        "text": "Streamlab Studio\nStreamlab Studio \nbook demo",
+        "html": "<div id=\"comp-lks3iqh7\" role=\"\" class=\"HFEOE3 NaeT1r comp-lks3iqh7-container comp-lks3iqh7 wixui-box\" dir=\"ltr\"><div aria-hidden=\"true\" class=\"jdJeEr NYfD3h inner-box wixui-box\"></",
+        "images": [
+          ""
+        ],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "steps(1)",
+            "composite": "auto",
+            "opacity": "0",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "replace",
+            "transform": "none",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0.000001,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "auto",
+            "transform": "translate(0px, 60px) rotate(0deg)",
+            "opacity": "0",
+            "computedOffset": 0.000001
+          },
+          {
+            "offset": 1,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "auto",
+            "transform": "translate(0px) rotate(0deg)",
+            "opacity": "1",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 1,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "state": "paused",
+        "currentTime": 0,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "comp-lks3iqh91",
+        "tag": "DIV",
+        "text": "Streamlab Studio \nbook demo",
+        "html": "<div id=\"comp-lks3iqh91\" role=\"\" class=\"HFEOE3 NaeT1r comp-lks3iqh91 wixui-box\" dir=\"ltr\"><div aria-hidden=\"true\" class=\"jdJeEr NYfD3h inner-box wixui-box\"></div><div class=\"comp-l",
+        "images": [
+          ""
+        ],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "steps(1)",
+            "composite": "auto",
+            "opacity": "0",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "replace",
+            "transform": "none",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0.000001,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "auto",
+            "transform": "translate(-60px) rotate(0deg)",
+            "opacity": "0",
+            "computedOffset": 0.000001
+          },
+          {
+            "offset": 1,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "auto",
+            "transform": "translate(0px) rotate(0deg)",
+            "opacity": "1",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 1,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "state": "paused",
+        "currentTime": 0,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "comp-lks8j05e10",
+        "tag": "DIV",
+        "text": "Welcome to the World of StreamLab Studio",
+        "html": "<div id=\"comp-lks8j05e10\" class=\"N8MGzv _v6ohL AWXfZq PO9MfV comp-lks8j05e10 wixui-rich-text\" data-testid=\"richTextElement\"><h3 class=\"font_5 wixui-rich-text__text\"><span class=\"wi",
+        "images": [],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "steps(1)",
+            "composite": "auto",
+            "opacity": "0",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "replace",
+            "transform": "none",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0.000001,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "auto",
+            "transform": "translate(-60px) rotate(0deg)",
+            "opacity": "0",
+            "computedOffset": 0.000001
+          },
+          {
+            "offset": 1,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "auto",
+            "transform": "translate(0px) rotate(0deg)",
+            "opacity": "1",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 1,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "state": "paused",
+        "currentTime": 0,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "comp-mhdguttt",
+        "tag": "DIV",
+        "text": "",
+        "html": "<div id=\"comp-mhdguttt\" data-testid=\"imageX\" class=\"i4P7Vt comp-mhdguttt ZYZJBv wixui-image\"><div class=\"YX2qkL\" data-motion-part=\"BG_LAYER comp-mhdguttt\"><div data-motion-part=\"BG",
+        "images": [
+          "streamlab studio "
+        ],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+            "composite": "auto",
+            "opacity": "0",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+            "composite": "auto",
+            "opacity": "1",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 1,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "state": "paused",
+        "currentTime": 0,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "comp-mhdguttt",
+        "tag": "DIV",
+        "text": "",
+        "html": "<div id=\"comp-mhdguttt\" data-testid=\"imageX\" class=\"i4P7Vt comp-mhdguttt ZYZJBv wixui-image\"><div class=\"YX2qkL\" data-motion-part=\"BG_LAYER comp-mhdguttt\"><div data-motion-part=\"BG",
+        "images": [
+          "streamlab studio "
+        ],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "cubic-bezier(0.175, 0.885, 0.32, 1.275)",
+            "composite": "replace",
+            "transform": "none",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0.000001,
+            "easing": "cubic-bezier(0.175, 0.885, 0.32, 1.275)",
+            "composite": "auto",
+            "transform": "perspective(800px) rotate(0deg) rotateX(0deg) rotateY(-90deg)",
+            "computedOffset": 0.000001
+          },
+          {
+            "offset": 1,
+            "easing": "cubic-bezier(0.175, 0.885, 0.32, 1.275)",
+            "composite": "auto",
+            "transform": "perspective(800px) rotate(0deg) rotateX(0deg) rotateY(0deg)",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 1,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "state": "paused",
+        "currentTime": 0,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "comp-mhdgutw0",
+        "tag": "DIV",
+        "text": "",
+        "html": "<div id=\"comp-mhdgutw0\" data-testid=\"imageX\" class=\"i4P7Vt comp-mhdgutw0 ZYZJBv wixui-image\"><div class=\"YX2qkL\" data-motion-part=\"BG_LAYER comp-mhdgutw0\"><div data-motion-part=\"BG",
+        "images": [
+          "streamlab studio "
+        ],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+            "composite": "auto",
+            "opacity": "0",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+            "composite": "auto",
+            "opacity": "1",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 1,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "state": "paused",
+        "currentTime": 0,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "comp-mhdgutw0",
+        "tag": "DIV",
+        "text": "",
+        "html": "<div id=\"comp-mhdgutw0\" data-testid=\"imageX\" class=\"i4P7Vt comp-mhdgutw0 ZYZJBv wixui-image\"><div class=\"YX2qkL\" data-motion-part=\"BG_LAYER comp-mhdgutw0\"><div data-motion-part=\"BG",
+        "images": [
+          "streamlab studio "
+        ],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "cubic-bezier(0.175, 0.885, 0.32, 1.275)",
+            "composite": "replace",
+            "transform": "none",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0.000001,
+            "easing": "cubic-bezier(0.175, 0.885, 0.32, 1.275)",
+            "composite": "auto",
+            "transform": "perspective(800px) rotate(0deg) rotateX(-90deg) rotateY(0deg)",
+            "computedOffset": 0.000001
+          },
+          {
+            "offset": 1,
+            "easing": "cubic-bezier(0.175, 0.885, 0.32, 1.275)",
+            "composite": "auto",
+            "transform": "perspective(800px) rotate(0deg) rotateX(0deg) rotateY(0deg)",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 1,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "state": "paused",
+        "currentTime": 0,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "comp-lksbm5yc",
+        "tag": "DIV",
+        "text": "Our Software",
+        "html": "<div id=\"comp-lksbm5yc\" class=\"N8MGzv _v6ohL AWXfZq PO9MfV comp-lksbm5yc wixui-rich-text\" data-testid=\"richTextElement\"><h2 class=\"font_5 wixui-rich-text__text\" style=\"text-align:c",
+        "images": [],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "steps(1)",
+            "composite": "auto",
+            "opacity": "0",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "replace",
+            "transform": "none",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0.000001,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "auto",
+            "transform": "translate(-60px) rotate(0deg)",
+            "opacity": "0",
+            "computedOffset": 0.000001
+          },
+          {
+            "offset": 1,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "auto",
+            "transform": "translate(0px) rotate(0deg)",
+            "opacity": "1",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 1,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "state": "paused",
+        "currentTime": 0,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "comp-lkscllga",
+        "tag": "DIV",
+        "text": "Stream globally. Broadcast smart. Grow faster with Streamlab.\n\nStreamlab delivers powerful and innovative live streaming solutions, specializing in streaming software, broadcasting, content delivery, and B2B streaming services. Our mission is to make",
+        "html": "<div id=\"comp-lkscllga\" role=\"\" class=\"HFEOE3 NaeT1r comp-lkscllga-container comp-lkscllga wixui-box\" dir=\"ltr\"><div aria-hidden=\"true\" class=\"jdJeEr NYfD3h inner-box wixui-box\"></",
+        "images": [],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "steps(1)",
+            "composite": "auto",
+            "opacity": "0",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "replace",
+            "transform": "none",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0.000001,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "auto",
+            "transform": "translate(0px, 60px) rotate(0deg)",
+            "opacity": "0",
+            "computedOffset": 0.000001
+          },
+          {
+            "offset": 1,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "auto",
+            "transform": "translate(0px) rotate(0deg)",
+            "opacity": "1",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 500,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "state": "paused",
+        "currentTime": 0,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "comp-lm34dqr39",
+        "tag": "DIV",
+        "text": "",
+        "html": "<div id=\"comp-lm34dqr39\" class=\"LH0J3M comp-lm34dqr39-container comp-lm34dqr39 wixui-video-box\" data-audio=\"off\" data-playing=\"\"><div class=\"UeoHYs\" tabindex=\"0\" role=\"button\" aria",
+        "images": [
+          ""
+        ],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "steps(1)",
+            "composite": "auto",
+            "opacity": "0",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "replace",
+            "transform": "none",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0.000001,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "auto",
+            "transform": "translate(0px, 60px) rotate(0deg)",
+            "opacity": "0",
+            "computedOffset": 0.000001
+          },
+          {
+            "offset": 1,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "auto",
+            "transform": "translate(0px) rotate(0deg)",
+            "opacity": "1",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 1,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "state": "paused",
+        "currentTime": 0,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "comp-lm34dqqp",
+        "tag": "DIV",
+        "text": "StreamSense\n\nIntroducing Stramsense AI, the groundbreaking software set to revolutionize your streaming experience! Designed with cutting-edge AI technology, it empowers users to maximize their potential in upcoming streams with ease. Whether you're ",
+        "html": "<div id=\"comp-lm34dqqp\" role=\"\" class=\"HFEOE3 NaeT1r comp-lm34dqqp-container comp-lm34dqqp wixui-box\" dir=\"ltr\"><div aria-hidden=\"true\" class=\"jdJeEr NYfD3h inner-box wixui-box\"></",
+        "images": [],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "steps(1)",
+            "composite": "auto",
+            "opacity": "0",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "replace",
+            "transform": "none",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0.000001,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "auto",
+            "transform": "translate(0px, 60px) rotate(0deg)",
+            "opacity": "0",
+            "computedOffset": 0.000001
+          },
+          {
+            "offset": 1,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "auto",
+            "transform": "translate(0px) rotate(0deg)",
+            "opacity": "1",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 500,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "state": "paused",
+        "currentTime": 0,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "comp-lkzgn4q9",
+        "tag": "DIV",
+        "text": "Unlock Opportunities: Partner with Us\n\nAre you passionate about gaming and eager to join a vibrant community? At Streamlab, we welcome gamers of all skill levels to come aboard and enhance their gaming experience. Reach out today to learn more about ",
+        "html": "<div id=\"comp-lkzgn4q9\" role=\"\" class=\"HFEOE3 NaeT1r comp-lkzgn4q9-container comp-lkzgn4q9 wixui-box\" dir=\"ltr\"><div aria-hidden=\"true\" class=\"jdJeEr NYfD3h inner-box wixui-box\"></",
+        "images": [],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "steps(1)",
+            "composite": "auto",
+            "opacity": "0",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "replace",
+            "transform": "none",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0.000001,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "auto",
+            "transform": "translate(0px, 60px) rotate(0deg)",
+            "opacity": "0",
+            "computedOffset": 0.000001
+          },
+          {
+            "offset": 1,
+            "easing": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+            "composite": "auto",
+            "transform": "translate(0px) rotate(0deg)",
+            "opacity": "1",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 500,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "state": "paused",
+        "currentTime": 0,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "bEeZ1_",
+        "tag": "DIV",
+        "text": "",
+        "html": "<div data-hook=\"skeleton-loader\" class=\"bEeZ1_\" style=\"--width:30px\">&nbsp;</div>",
+        "images": [],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "ease",
+            "composite": "auto",
+            "webkitMaskPositionX": "100%",
+            "webkitMaskPositionY": "50%",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "ease",
+            "composite": "auto",
+            "webkitMaskPositionX": "0px",
+            "webkitMaskPositionY": "50%",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "state": "running",
+        "currentTime": 2916.7999999999997,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "bEeZ1_",
+        "tag": "DIV",
+        "text": "",
+        "html": "<div data-hook=\"skeleton-loader\" class=\"bEeZ1_\" style=\"--width:30px\">&nbsp;</div>",
+        "images": [],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "ease",
+            "composite": "auto",
+            "webkitMaskPositionX": "100%",
+            "webkitMaskPositionY": "50%",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "ease",
+            "composite": "auto",
+            "webkitMaskPositionX": "0px",
+            "webkitMaskPositionY": "50%",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "state": "running",
+        "currentTime": 2916.7999999999997,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "bEeZ1_",
+        "tag": "DIV",
+        "text": "",
+        "html": "<div data-hook=\"skeleton-loader\" class=\"bEeZ1_\" style=\"--width:30px\">&nbsp;</div>",
+        "images": [],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "ease",
+            "composite": "auto",
+            "webkitMaskPositionX": "100%",
+            "webkitMaskPositionY": "50%",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "ease",
+            "composite": "auto",
+            "webkitMaskPositionX": "0px",
+            "webkitMaskPositionY": "50%",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "state": "running",
+        "currentTime": 2916.7999999999997,
+        "timeline": "DocumentTimeline"
+      }
+    ]
+  },
+  {
+    "route": "/games",
+    "animations": []
+  },
+  {
+    "route": "/company",
+    "animations": []
+  },
+  {
+    "route": "/join-us",
+    "animations": []
+  },
+  {
+    "route": "/blog",
+    "animations": [
+      {
+        "target": "bEeZ1_",
+        "tag": "DIV",
+        "text": "",
+        "html": "<div data-hook=\"skeleton-loader\" class=\"bEeZ1_\" style=\"--width:30px\">&nbsp;</div>",
+        "images": [],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "ease",
+            "composite": "auto",
+            "webkitMaskPositionX": "100%",
+            "webkitMaskPositionY": "50%",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "ease",
+            "composite": "auto",
+            "webkitMaskPositionX": "0px",
+            "webkitMaskPositionY": "50%",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "state": "running",
+        "currentTime": 2399.9,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "bEeZ1_",
+        "tag": "DIV",
+        "text": "",
+        "html": "<div data-hook=\"skeleton-loader\" class=\"bEeZ1_\" style=\"--width:30px\">&nbsp;</div>",
+        "images": [],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "ease",
+            "composite": "auto",
+            "webkitMaskPositionX": "100%",
+            "webkitMaskPositionY": "50%",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "ease",
+            "composite": "auto",
+            "webkitMaskPositionX": "0px",
+            "webkitMaskPositionY": "50%",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "state": "running",
+        "currentTime": 2399.9,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "bEeZ1_",
+        "tag": "DIV",
+        "text": "",
+        "html": "<div data-hook=\"skeleton-loader\" class=\"bEeZ1_\" style=\"--width:40px\">&nbsp;</div>",
+        "images": [],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "ease",
+            "composite": "auto",
+            "webkitMaskPositionX": "100%",
+            "webkitMaskPositionY": "50%",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "ease",
+            "composite": "auto",
+            "webkitMaskPositionX": "0px",
+            "webkitMaskPositionY": "50%",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "state": "running",
+        "currentTime": 2399.9,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "bEeZ1_",
+        "tag": "DIV",
+        "text": "",
+        "html": "<div data-hook=\"skeleton-loader\" class=\"bEeZ1_\" style=\"--width:30px\">&nbsp;</div>",
+        "images": [],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "ease",
+            "composite": "auto",
+            "webkitMaskPositionX": "100%",
+            "webkitMaskPositionY": "50%",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "ease",
+            "composite": "auto",
+            "webkitMaskPositionX": "0px",
+            "webkitMaskPositionY": "50%",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "state": "running",
+        "currentTime": 2399.9,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "bEeZ1_",
+        "tag": "DIV",
+        "text": "",
+        "html": "<div data-hook=\"skeleton-loader\" class=\"bEeZ1_\" style=\"--width:30px\">&nbsp;</div>",
+        "images": [],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "ease",
+            "composite": "auto",
+            "webkitMaskPositionX": "100%",
+            "webkitMaskPositionY": "50%",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "ease",
+            "composite": "auto",
+            "webkitMaskPositionX": "0px",
+            "webkitMaskPositionY": "50%",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "state": "running",
+        "currentTime": 2399.9,
+        "timeline": "DocumentTimeline"
+      },
+      {
+        "target": "bEeZ1_",
+        "tag": "DIV",
+        "text": "",
+        "html": "<div data-hook=\"skeleton-loader\" class=\"bEeZ1_\" style=\"--width:40px\">&nbsp;</div>",
+        "images": [],
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "ease",
+            "composite": "auto",
+            "webkitMaskPositionX": "100%",
+            "webkitMaskPositionY": "50%",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "ease",
+            "composite": "auto",
+            "webkitMaskPositionX": "0px",
+            "webkitMaskPositionY": "50%",
+            "computedOffset": 1
+          }
+        ],
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "state": "running",
+        "currentTime": 2399.9,
+        "timeline": "DocumentTimeline"
+      }
+    ]
+  }
+]

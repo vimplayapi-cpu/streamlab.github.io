@@ -10,6 +10,7 @@
     const animation = element.animate(frames, options);
     runningAnimations.add(animation);
     animation.finished.catch(() => {}).finally(() => runningAnimations.delete(animation));
+    return animation;
   };
   const overlays = [...document.querySelectorAll('[data-hook="hamburger-overlay-root"]')];
   const openers = [...document.querySelectorAll('.wixui-hamburger-open-button')];
@@ -257,16 +258,62 @@
     new ResizeObserver(update).observe(rail); update();
   });
 
-  const entranceObserver = new IntersectionObserver(entries => {
-    entries.forEach(entry => {
-      if (!entry.isIntersecting) return;
-      entranceObserver.unobserve(entry.target);
-      if (entry.boundingClientRect.height < 950) animate(entry.target,
-        [{opacity:.15,translate:'0 24px'},{opacity:1,translate:'0 0'}],
-        {duration:650,easing:'cubic-bezier(.16,1,.3,1)'});
+  // Original Wix homepage settings, mapped to the responsive elements.
+  // The source uses 60px reveals, 1.2s durations and two studio image flips.
+  const entrances = new Map();
+  const registerEntrance = (element, kind, delay = 1) => {
+    if (!element) return;
+    element.dataset.scrollEntrance = kind;
+    entrances.set(element, {kind, delay});
+  };
+  const findHeading = text => [...document.querySelectorAll('main h2')].find(h => h.textContent.trim() === text);
+  if (document.body.dataset.portablePage === 'home') {
+    registerEntrance(document.querySelector('.sl-hero-copy'), 'up');
+    registerEntrance(document.querySelector('#studio .sl-split'), 'up');
+    registerEntrance(document.querySelector('#studio .sl-split > .sl-media'), 'left');
+    registerEntrance(document.querySelector('#studio h2'), 'left');
+    registerEntrance(document.querySelector('.sl-studio-gallery > :nth-child(1)'), 'flip-y');
+    registerEntrance(document.querySelector('.sl-studio-gallery > :nth-child(2)'), 'flip-x');
+    registerEntrance(findHeading('Our Software'), 'left');
+    registerEntrance(document.querySelector('.sl-callout > .wixui-rich-text'), 'up', 500);
+    registerEntrance(document.querySelector('video[data-video-src*="078432710198fb0c62591400"]')?.closest('figure'), 'up');
+    registerEntrance(findHeading('StreamSense')?.closest('.sl-copy'), 'up', 500);
+    registerEntrance(findHeading('Unlock Opportunities: Partner with Us')?.closest('.sl-copy'), 'up', 500);
+  } else {
+    document.querySelectorAll('main .wixui-rich-text,main .portable-product-card,main .sl-card,main .sl-career').forEach(element => {
+      if (element.getBoundingClientRect().height < 950) registerEntrance(element, 'subtle');
     });
-  }, {threshold:.1});
-  document.querySelectorAll('main .wixui-rich-text,main .portable-product-card,main .sl-card,main .sl-career').forEach(element => entranceObserver.observe(element));
+  }
+  function playEntrance(element) {
+    const settings = entrances.get(element);
+    if (!motionEnabled || !settings) return;
+    entrances.delete(element);
+    entranceObserver.unobserve(element);
+    const {kind, delay} = settings;
+    if (kind === 'subtle') {
+      animate(element, [{opacity:.15,translate:'0 24px'},{opacity:1,translate:'0 0'}],
+        {duration:650,easing:'cubic-bezier(.16,1,.3,1)'});
+      return;
+    }
+    const flip = kind.startsWith('flip-');
+    const start = kind === 'left' ? 'translate(-60px, 0)' : kind === 'up' ? 'translate(0, 60px)' :
+      kind === 'flip-y' ? 'perspective(800px) rotateY(-90deg)' : 'perspective(800px) rotateX(-90deg)';
+    const end = kind === 'flip-y' ? 'perspective(800px) rotateY(0deg)' :
+      kind === 'flip-x' ? 'perspective(800px) rotateX(0deg)' : 'translate(0, 0)';
+    animate(element, [{opacity:0,transform:start},{opacity:1,transform:end}],
+      {duration:1200,delay,fill:'backwards',easing:flip?'linear':'cubic-bezier(0.445, 0.05, 0.55, 0.95)'});
+  }
+  const entranceObserver = new IntersectionObserver(entries => {
+    entries.forEach(entry => { if (entry.isIntersecting) playEntrance(entry.target); });
+  }, {threshold:0,rootMargin:'0px 0px -12% 0px'});
+  entrances.forEach((_, element) => entranceObserver.observe(element));
+  function playVisibleEntrances() {
+    if (!motionEnabled) return;
+    entrances.forEach((_, element) => {
+      const rect = element.getBoundingClientRect();
+      if (rect.bottom > 0 && rect.top < innerHeight * .88) playEntrance(element);
+    });
+  }
 
   const animatedImages = [...document.images].filter(img => /\.gif(?:$|\?)/i.test(img.src)).map(img => ({
     img, original:img.getAttribute('src'),
@@ -285,6 +332,7 @@
       button.setAttribute('aria-pressed', String(!motionEnabled));
     });
     if (!motionEnabled) runningAnimations.forEach(animation => animation.cancel());
+    else playVisibleEntrances();
     animatedImages.forEach(({img,original,sources}) => {
       img.setAttribute('src', motionEnabled ? original : still(original));
       sources.forEach(({source,original:value}) => source.setAttribute('srcset', motionEnabled ? value : still(value)));

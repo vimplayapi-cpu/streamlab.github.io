@@ -1,0 +1,51 @@
+{
+  "checkedAt": "2026-10-10T12:45:34.045Z",
+  "base": "http://127.0.0.1:4173/",
+  "browser": "Edge / Chromium",
+  "source": "Live original Wix homepage animation keyframes captured on 2026-10-10",
+  "checks": [
+    {
+      "width": 320,
+      "entrances": 11,
+      "sourceDuration": 1200,
+      "delayedEntrances": 3,
+      "studioFlips": 2,
+      "frameOverflowChecks": 5,
+      "playsOnce": true
+    },
+    {
+      "width": 390,
+      "entrances": 11,
+      "sourceDuration": 1200,
+      "delayedEntrances": 3,
+      "studioFlips": 2,
+      "frameOverflowChecks": 5,
+      "playsOnce": true
+    },
+    {
+      "width": 768,
+      "entrances": 11,
+      "sourceDuration": 1200,
+      "delayedEntrances": 3,
+      "studioFlips": 2,
+      "frameOverflowChecks": 5,
+      "playsOnce": true
+    },
+    {
+      "width": 1440,
+      "entrances": 11,
+      "sourceDuration": 1200,
+      "delayedEntrances": 3,
+      "studioFlips": 2,
+      "frameOverflowChecks": 5,
+      "playsOnce": true
+    },
+    {
+      "reducedMotion": "No entrance animations; all content visible"
+    },
+    {
+      "motionControl": "Enabling motion plays pending visible entrances; pausing reveals content immediately"
+    }
+  ],
+  "errors": []
+}

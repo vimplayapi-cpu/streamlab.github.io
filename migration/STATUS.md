@@ -4,6 +4,8 @@ All nine public Wix pages, including four articles, plus the privacy notice and 
 
 ## Completed
 
+The original Wix homepage scrolling animations are restored using the live site's captured keyframes: upward and leftward fades over 60px, 1200ms durations, the three 500ms delayed reveals, and Studio image rotations around the X/Y axes. Eleven original animation targets map to the responsive content. They play once on entering the viewport and respect reduced motion. All 44 target/viewport checks and 20 intermediate-frame overflow checks passed, together with motion toggle and reduced-motion checks. The responsive layouts and image proportions are retained.
+
 Product arrows and anchors, Careers navigation, application preselection, scroll/menu animations, reading progress, reduced-motion support, motion toggle, lazy/offscreen videos, keyboard focus, News navigation, spelling/template-text fixes, privacy notice, 404, sitemap and deployment metadata.
 
 The responsive rebuild replaces fixed Wix dimensions with fluid layouts on all ten content pages. The header's empty top band is removed, product screenshots are separated from copy, image proportions are preserved, and card grids stack at smaller widths. News cards have consistent image areas and aligned actions. Native forms and article images reflow without horizontal page scrolling.
