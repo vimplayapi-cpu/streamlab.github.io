@@ -1,0 +1,3242 @@
+{
+  "checkedAt": "2026-10-10T11:47:49.469Z",
+  "base": "http://127.0.0.1:4173/",
+  "browser": "Microsoft Edge / Chromium",
+  "scope": "11 pages, 16 viewport sizes including two landscape layouts; loaded images, intrinsic proportions, overflow, header geometry, card image/text boundaries, anchors and primary control sizes",
+  "checks": [
+    {
+      "route": "/blog",
+      "viewport": {
+        "width": 320,
+        "height": 900
+      },
+      "pageWidth": 320,
+      "pageHeight": 3961,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 73,
+        "bottom": 73,
+        "right": 320
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/company",
+      "viewport": {
+        "width": 320,
+        "height": 900
+      },
+      "pageWidth": 320,
+      "pageHeight": 6193,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 73,
+        "bottom": 73,
+        "right": 320
+      },
+      "images": 3,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "viewport": {
+        "width": 320,
+        "height": 900
+      },
+      "pageWidth": 320,
+      "pageHeight": 11808,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 73,
+        "bottom": 73,
+        "right": 320
+      },
+      "images": 10,
+      "issues": []
+    },
+    {
+      "route": "/join-us",
+      "viewport": {
+        "width": 320,
+        "height": 900
+      },
+      "pageWidth": 320,
+      "pageHeight": 2372,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 73,
+        "bottom": 73,
+        "right": 320
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/games",
+      "viewport": {
+        "width": 320,
+        "height": 900
+      },
+      "pageWidth": 320,
+      "pageHeight": 4804,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 73,
+        "bottom": 73,
+        "right": 320
+      },
+      "images": 13,
+      "issues": []
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions",
+      "viewport": {
+        "width": 320,
+        "height": 900
+      },
+      "pageWidth": 320,
+      "pageHeight": 11643,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 73,
+        "bottom": 73,
+        "right": 320
+      },
+      "images": 6,
+      "issues": []
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+      "viewport": {
+        "width": 320,
+        "height": 900
+      },
+      "pageWidth": 320,
+      "pageHeight": 10021,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 73,
+        "bottom": 73,
+        "right": 320
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+      "viewport": {
+        "width": 320,
+        "height": 900
+      },
+      "pageWidth": 320,
+      "pageHeight": 10937,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 73,
+        "bottom": 73,
+        "right": 320
+      },
+      "images": 7,
+      "issues": []
+    },
+    {
+      "route": "/privacy",
+      "viewport": {
+        "width": 320,
+        "height": 900
+      },
+      "pageWidth": 320,
+      "pageHeight": 3159,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 73,
+        "bottom": 73,
+        "right": 320
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+      "viewport": {
+        "width": 320,
+        "height": 900
+      },
+      "pageWidth": 320,
+      "pageHeight": 10668,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 73,
+        "bottom": 73,
+        "right": 320
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/404.html",
+      "viewport": {
+        "width": 320,
+        "height": 900
+      },
+      "pageWidth": 320,
+      "pageHeight": 900,
+      "header": null,
+      "images": 0,
+      "issues": []
+    },
+    {
+      "route": "/blog",
+      "viewport": {
+        "width": 360,
+        "height": 900
+      },
+      "pageWidth": 360,
+      "pageHeight": 3856,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 360,
+        "height": 73,
+        "bottom": 73,
+        "right": 360
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "viewport": {
+        "width": 360,
+        "height": 900
+      },
+      "pageWidth": 360,
+      "pageHeight": 11608,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 360,
+        "height": 73,
+        "bottom": 73,
+        "right": 360
+      },
+      "images": 10,
+      "issues": []
+    },
+    {
+      "route": "/company",
+      "viewport": {
+        "width": 360,
+        "height": 900
+      },
+      "pageWidth": 360,
+      "pageHeight": 5930,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 360,
+        "height": 73,
+        "bottom": 73,
+        "right": 360
+      },
+      "images": 3,
+      "issues": []
+    },
+    {
+      "route": "/games",
+      "viewport": {
+        "width": 360,
+        "height": 900
+      },
+      "pageWidth": 360,
+      "pageHeight": 4747,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 360,
+        "height": 73,
+        "bottom": 73,
+        "right": 360
+      },
+      "images": 13,
+      "issues": []
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions",
+      "viewport": {
+        "width": 360,
+        "height": 900
+      },
+      "pageWidth": 360,
+      "pageHeight": 10758,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 360,
+        "height": 73,
+        "bottom": 73,
+        "right": 360
+      },
+      "images": 6,
+      "issues": []
+    },
+    {
+      "route": "/join-us",
+      "viewport": {
+        "width": 360,
+        "height": 900
+      },
+      "pageWidth": 360,
+      "pageHeight": 2298,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 360,
+        "height": 73,
+        "bottom": 73,
+        "right": 360
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+      "viewport": {
+        "width": 360,
+        "height": 900
+      },
+      "pageWidth": 360,
+      "pageHeight": 9235,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 360,
+        "height": 73,
+        "bottom": 73,
+        "right": 360
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+      "viewport": {
+        "width": 360,
+        "height": 900
+      },
+      "pageWidth": 360,
+      "pageHeight": 9854,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 360,
+        "height": 73,
+        "bottom": 73,
+        "right": 360
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+      "viewport": {
+        "width": 360,
+        "height": 900
+      },
+      "pageWidth": 360,
+      "pageHeight": 10165,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 360,
+        "height": 73,
+        "bottom": 73,
+        "right": 360
+      },
+      "images": 7,
+      "issues": []
+    },
+    {
+      "route": "/privacy",
+      "viewport": {
+        "width": 360,
+        "height": 900
+      },
+      "pageWidth": 360,
+      "pageHeight": 2940,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 360,
+        "height": 73,
+        "bottom": 73,
+        "right": 360
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/404.html",
+      "viewport": {
+        "width": 360,
+        "height": 900
+      },
+      "pageWidth": 360,
+      "pageHeight": 900,
+      "header": null,
+      "images": 0,
+      "issues": []
+    },
+    {
+      "route": "/blog",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "pageWidth": 390,
+      "pageHeight": 3807,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 73,
+        "bottom": 73,
+        "right": 390
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "pageWidth": 390,
+      "pageHeight": 11480,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 73,
+        "bottom": 73,
+        "right": 390
+      },
+      "images": 10,
+      "issues": []
+    },
+    {
+      "route": "/company",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "pageWidth": 390,
+      "pageHeight": 5850,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 73,
+        "bottom": 73,
+        "right": 390
+      },
+      "images": 3,
+      "issues": []
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "pageWidth": 390,
+      "pageHeight": 10424,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 73,
+        "bottom": 73,
+        "right": 390
+      },
+      "images": 6,
+      "issues": []
+    },
+    {
+      "route": "/games",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "pageWidth": 390,
+      "pageHeight": 4711,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 73,
+        "bottom": 73,
+        "right": 390
+      },
+      "images": 13,
+      "issues": []
+    },
+    {
+      "route": "/join-us",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "pageWidth": 390,
+      "pageHeight": 2298,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 73,
+        "bottom": 73,
+        "right": 390
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "pageWidth": 390,
+      "pageHeight": 8950,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 73,
+        "bottom": 73,
+        "right": 390
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "pageWidth": 390,
+      "pageHeight": 9874,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 73,
+        "bottom": 73,
+        "right": 390
+      },
+      "images": 7,
+      "issues": []
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "pageWidth": 390,
+      "pageHeight": 9350,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 73,
+        "bottom": 73,
+        "right": 390
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/404.html",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "pageWidth": 390,
+      "pageHeight": 900,
+      "header": null,
+      "images": 0,
+      "issues": []
+    },
+    {
+      "route": "/privacy",
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "pageWidth": 390,
+      "pageHeight": 2800,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 73,
+        "bottom": 73,
+        "right": 390
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/blog",
+      "viewport": {
+        "width": 430,
+        "height": 900
+      },
+      "pageWidth": 430,
+      "pageHeight": 3829,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 430,
+        "height": 73,
+        "bottom": 73,
+        "right": 430
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "viewport": {
+        "width": 430,
+        "height": 900
+      },
+      "pageWidth": 430,
+      "pageHeight": 11541,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 430,
+        "height": 73,
+        "bottom": 73,
+        "right": 430
+      },
+      "images": 10,
+      "issues": []
+    },
+    {
+      "route": "/company",
+      "viewport": {
+        "width": 430,
+        "height": 900
+      },
+      "pageWidth": 430,
+      "pageHeight": 5580,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 430,
+        "height": 73,
+        "bottom": 73,
+        "right": 430
+      },
+      "images": 3,
+      "issues": []
+    },
+    {
+      "route": "/games",
+      "viewport": {
+        "width": 430,
+        "height": 900
+      },
+      "pageWidth": 430,
+      "pageHeight": 4627,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 430,
+        "height": 73,
+        "bottom": 73,
+        "right": 430
+      },
+      "images": 13,
+      "issues": []
+    },
+    {
+      "route": "/join-us",
+      "viewport": {
+        "width": 430,
+        "height": 900
+      },
+      "pageWidth": 430,
+      "pageHeight": 2239,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 430,
+        "height": 73,
+        "bottom": 73,
+        "right": 430
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions",
+      "viewport": {
+        "width": 430,
+        "height": 900
+      },
+      "pageWidth": 430,
+      "pageHeight": 10050,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 430,
+        "height": 73,
+        "bottom": 73,
+        "right": 430
+      },
+      "images": 6,
+      "issues": []
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+      "viewport": {
+        "width": 430,
+        "height": 900
+      },
+      "pageWidth": 430,
+      "pageHeight": 8468,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 430,
+        "height": 73,
+        "bottom": 73,
+        "right": 430
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/privacy",
+      "viewport": {
+        "width": 430,
+        "height": 900
+      },
+      "pageWidth": 430,
+      "pageHeight": 2629,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 430,
+        "height": 73,
+        "bottom": 73,
+        "right": 430
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+      "viewport": {
+        "width": 430,
+        "height": 900
+      },
+      "pageWidth": 430,
+      "pageHeight": 9411,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 430,
+        "height": 73,
+        "bottom": 73,
+        "right": 430
+      },
+      "images": 7,
+      "issues": []
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+      "viewport": {
+        "width": 430,
+        "height": 900
+      },
+      "pageWidth": 430,
+      "pageHeight": 8964,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 430,
+        "height": 73,
+        "bottom": 73,
+        "right": 430
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/404.html",
+      "viewport": {
+        "width": 430,
+        "height": 900
+      },
+      "pageWidth": 430,
+      "pageHeight": 900,
+      "header": null,
+      "images": 0,
+      "issues": []
+    },
+    {
+      "route": "/blog",
+      "viewport": {
+        "width": 600,
+        "height": 900
+      },
+      "pageWidth": 600,
+      "pageHeight": 2463,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 77,
+        "bottom": 77,
+        "right": 600
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "viewport": {
+        "width": 600,
+        "height": 900
+      },
+      "pageWidth": 600,
+      "pageHeight": 9012,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 77,
+        "bottom": 77,
+        "right": 600
+      },
+      "images": 10,
+      "issues": []
+    },
+    {
+      "route": "/company",
+      "viewport": {
+        "width": 600,
+        "height": 900
+      },
+      "pageWidth": 600,
+      "pageHeight": 4749,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 77,
+        "bottom": 77,
+        "right": 600
+      },
+      "images": 3,
+      "issues": []
+    },
+    {
+      "route": "/games",
+      "viewport": {
+        "width": 600,
+        "height": 900
+      },
+      "pageWidth": 600,
+      "pageHeight": 4575,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 77,
+        "bottom": 77,
+        "right": 600
+      },
+      "images": 13,
+      "issues": []
+    },
+    {
+      "route": "/join-us",
+      "viewport": {
+        "width": 600,
+        "height": 900
+      },
+      "pageWidth": 600,
+      "pageHeight": 1947,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 77,
+        "bottom": 77,
+        "right": 600
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions",
+      "viewport": {
+        "width": 600,
+        "height": 900
+      },
+      "pageWidth": 600,
+      "pageHeight": 8472,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 77,
+        "bottom": 77,
+        "right": 600
+      },
+      "images": 6,
+      "issues": []
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+      "viewport": {
+        "width": 600,
+        "height": 900
+      },
+      "pageWidth": 600,
+      "pageHeight": 6894,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 77,
+        "bottom": 77,
+        "right": 600
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+      "viewport": {
+        "width": 600,
+        "height": 900
+      },
+      "pageWidth": 600,
+      "pageHeight": 7879,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 77,
+        "bottom": 77,
+        "right": 600
+      },
+      "images": 7,
+      "issues": []
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+      "viewport": {
+        "width": 600,
+        "height": 900
+      },
+      "pageWidth": 600,
+      "pageHeight": 6998,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 77,
+        "bottom": 77,
+        "right": 600
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/privacy",
+      "viewport": {
+        "width": 600,
+        "height": 900
+      },
+      "pageWidth": 600,
+      "pageHeight": 2201,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 77,
+        "bottom": 77,
+        "right": 600
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/404.html",
+      "viewport": {
+        "width": 600,
+        "height": 900
+      },
+      "pageWidth": 600,
+      "pageHeight": 900,
+      "header": null,
+      "images": 0,
+      "issues": []
+    },
+    {
+      "route": "/blog",
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "pageWidth": 768,
+      "pageHeight": 2340,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 77,
+        "bottom": 77,
+        "right": 768
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/company",
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "pageWidth": 768,
+      "pageHeight": 4631,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 77,
+        "bottom": 77,
+        "right": 768
+      },
+      "images": 3,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "pageWidth": 768,
+      "pageHeight": 9233,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 77,
+        "bottom": 77,
+        "right": 768
+      },
+      "images": 10,
+      "issues": []
+    },
+    {
+      "route": "/games",
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "pageWidth": 768,
+      "pageHeight": 4855,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 77,
+        "bottom": 77,
+        "right": 768
+      },
+      "images": 13,
+      "issues": []
+    },
+    {
+      "route": "/join-us",
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "pageWidth": 768,
+      "pageHeight": 1899,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 77,
+        "bottom": 77,
+        "right": 768
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "pageWidth": 768,
+      "pageHeight": 6277,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 77,
+        "bottom": 77,
+        "right": 768
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "pageWidth": 768,
+      "pageHeight": 7513,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 77,
+        "bottom": 77,
+        "right": 768
+      },
+      "images": 7,
+      "issues": []
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions",
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "pageWidth": 768,
+      "pageHeight": 7919,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 77,
+        "bottom": 77,
+        "right": 768
+      },
+      "images": 6,
+      "issues": []
+    },
+    {
+      "route": "/privacy",
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "pageWidth": 768,
+      "pageHeight": 2076,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 77,
+        "bottom": 77,
+        "right": 768
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "pageWidth": 768,
+      "pageHeight": 6374,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 77,
+        "bottom": 77,
+        "right": 768
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/404.html",
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "pageWidth": 768,
+      "pageHeight": 900,
+      "header": null,
+      "images": 0,
+      "issues": []
+    },
+    {
+      "route": "/blog",
+      "viewport": {
+        "width": 820,
+        "height": 900
+      },
+      "pageWidth": 820,
+      "pageHeight": 2182,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 820,
+        "height": 81,
+        "bottom": 81,
+        "right": 820
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "viewport": {
+        "width": 820,
+        "height": 900
+      },
+      "pageWidth": 820,
+      "pageHeight": 8077,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 820,
+        "height": 81,
+        "bottom": 81,
+        "right": 820
+      },
+      "images": 10,
+      "issues": []
+    },
+    {
+      "route": "/company",
+      "viewport": {
+        "width": 820,
+        "height": 900
+      },
+      "pageWidth": 820,
+      "pageHeight": 3815,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 820,
+        "height": 81,
+        "bottom": 81,
+        "right": 820
+      },
+      "images": 3,
+      "issues": []
+    },
+    {
+      "route": "/join-us",
+      "viewport": {
+        "width": 820,
+        "height": 900
+      },
+      "pageWidth": 820,
+      "pageHeight": 1579,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 820,
+        "height": 81,
+        "bottom": 81,
+        "right": 820
+      },
+      "images": 2,
+      "issues": []
+    },
+    {
+      "route": "/games",
+      "viewport": {
+        "width": 820,
+        "height": 900
+      },
+      "pageWidth": 820,
+      "pageHeight": 3527,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 820,
+        "height": 81,
+        "bottom": 81,
+        "right": 820
+      },
+      "images": 13,
+      "issues": []
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions",
+      "viewport": {
+        "width": 820,
+        "height": 900
+      },
+      "pageWidth": 820,
+      "pageHeight": 7913,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 820,
+        "height": 81,
+        "bottom": 81,
+        "right": 820
+      },
+      "images": 6,
+      "issues": []
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+      "viewport": {
+        "width": 820,
+        "height": 900
+      },
+      "pageWidth": 820,
+      "pageHeight": 6277,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 820,
+        "height": 81,
+        "bottom": 81,
+        "right": 820
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+      "viewport": {
+        "width": 820,
+        "height": 900
+      },
+      "pageWidth": 820,
+      "pageHeight": 7546,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 820,
+        "height": 81,
+        "bottom": 81,
+        "right": 820
+      },
+      "images": 7,
+      "issues": []
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+      "viewport": {
+        "width": 820,
+        "height": 900
+      },
+      "pageWidth": 820,
+      "pageHeight": 6383,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 820,
+        "height": 81,
+        "bottom": 81,
+        "right": 820
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/404.html",
+      "viewport": {
+        "width": 820,
+        "height": 900
+      },
+      "pageWidth": 820,
+      "pageHeight": 900,
+      "header": null,
+      "images": 0,
+      "issues": []
+    },
+    {
+      "route": "/privacy",
+      "viewport": {
+        "width": 820,
+        "height": 900
+      },
+      "pageWidth": 820,
+      "pageHeight": 1904,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 820,
+        "height": 81,
+        "bottom": 81,
+        "right": 820
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/blog",
+      "viewport": {
+        "width": 900,
+        "height": 900
+      },
+      "pageWidth": 900,
+      "pageHeight": 2239,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 900,
+        "height": 81,
+        "bottom": 81,
+        "right": 900
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "viewport": {
+        "width": 900,
+        "height": 900
+      },
+      "pageWidth": 900,
+      "pageHeight": 8215,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 900,
+        "height": 81,
+        "bottom": 81,
+        "right": 900
+      },
+      "images": 10,
+      "issues": []
+    },
+    {
+      "route": "/company",
+      "viewport": {
+        "width": 900,
+        "height": 900
+      },
+      "pageWidth": 900,
+      "pageHeight": 3711,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 900,
+        "height": 81,
+        "bottom": 81,
+        "right": 900
+      },
+      "images": 3,
+      "issues": []
+    },
+    {
+      "route": "/games",
+      "viewport": {
+        "width": 900,
+        "height": 900
+      },
+      "pageWidth": 900,
+      "pageHeight": 3515,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 900,
+        "height": 81,
+        "bottom": 81,
+        "right": 900
+      },
+      "images": 13,
+      "issues": []
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions",
+      "viewport": {
+        "width": 900,
+        "height": 900
+      },
+      "pageWidth": 900,
+      "pageHeight": 7843,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 900,
+        "height": 81,
+        "bottom": 81,
+        "right": 900
+      },
+      "images": 6,
+      "issues": []
+    },
+    {
+      "route": "/join-us",
+      "viewport": {
+        "width": 900,
+        "height": 900
+      },
+      "pageWidth": 900,
+      "pageHeight": 1591,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 900,
+        "height": 81,
+        "bottom": 81,
+        "right": 900
+      },
+      "images": 2,
+      "issues": []
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+      "viewport": {
+        "width": 900,
+        "height": 900
+      },
+      "pageWidth": 900,
+      "pageHeight": 6210,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 900,
+        "height": 81,
+        "bottom": 81,
+        "right": 900
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+      "viewport": {
+        "width": 900,
+        "height": 900
+      },
+      "pageWidth": 900,
+      "pageHeight": 6308,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 900,
+        "height": 81,
+        "bottom": 81,
+        "right": 900
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+      "viewport": {
+        "width": 900,
+        "height": 900
+      },
+      "pageWidth": 900,
+      "pageHeight": 7565,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 900,
+        "height": 81,
+        "bottom": 81,
+        "right": 900
+      },
+      "images": 7,
+      "issues": []
+    },
+    {
+      "route": "/privacy",
+      "viewport": {
+        "width": 900,
+        "height": 900
+      },
+      "pageWidth": 900,
+      "pageHeight": 1852,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 900,
+        "height": 81,
+        "bottom": 81,
+        "right": 900
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/404.html",
+      "viewport": {
+        "width": 900,
+        "height": 900
+      },
+      "pageWidth": 900,
+      "pageHeight": 900,
+      "header": null,
+      "images": 0,
+      "issues": []
+    },
+    {
+      "route": "/blog",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "pageWidth": 1024,
+      "pageHeight": 2242,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "pageWidth": 1024,
+      "pageHeight": 8482,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 10,
+      "issues": []
+    },
+    {
+      "route": "/company",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "pageWidth": 1024,
+      "pageHeight": 3750,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 3,
+      "issues": []
+    },
+    {
+      "route": "/games",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "pageWidth": 1024,
+      "pageHeight": 3510,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 13,
+      "issues": []
+    },
+    {
+      "route": "/join-us",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "pageWidth": 1024,
+      "pageHeight": 1617,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 2,
+      "issues": []
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "pageWidth": 1024,
+      "pageHeight": 7896,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 6,
+      "issues": []
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "pageWidth": 1024,
+      "pageHeight": 6327,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "pageWidth": 1024,
+      "pageHeight": 6378,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "pageWidth": 1024,
+      "pageHeight": 7655,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 7,
+      "issues": []
+    },
+    {
+      "route": "/privacy",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "pageWidth": 1024,
+      "pageHeight": 1875,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/404.html",
+      "viewport": {
+        "width": 1024,
+        "height": 900
+      },
+      "pageWidth": 1024,
+      "pageHeight": 900,
+      "header": null,
+      "images": 0,
+      "issues": []
+    },
+    {
+      "route": "/blog",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "pageWidth": 1280,
+      "pageHeight": 2323,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 81,
+        "bottom": 81,
+        "right": 1280
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/games",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "pageWidth": 1280,
+      "pageHeight": 3559,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 81,
+        "bottom": 81,
+        "right": 1280
+      },
+      "images": 13,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "pageWidth": 1280,
+      "pageHeight": 7061,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 81,
+        "bottom": 81,
+        "right": 1280
+      },
+      "images": 10,
+      "issues": []
+    },
+    {
+      "route": "/company",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "pageWidth": 1280,
+      "pageHeight": 3949,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 81,
+        "bottom": 81,
+        "right": 1280
+      },
+      "images": 3,
+      "issues": []
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "pageWidth": 1280,
+      "pageHeight": 5826,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 81,
+        "bottom": 81,
+        "right": 1280
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "pageWidth": 1280,
+      "pageHeight": 7496,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 81,
+        "bottom": 81,
+        "right": 1280
+      },
+      "images": 6,
+      "issues": []
+    },
+    {
+      "route": "/join-us",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "pageWidth": 1280,
+      "pageHeight": 1647,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 81,
+        "bottom": 81,
+        "right": 1280
+      },
+      "images": 2,
+      "issues": []
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "pageWidth": 1280,
+      "pageHeight": 7162,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 81,
+        "bottom": 81,
+        "right": 1280
+      },
+      "images": 7,
+      "issues": []
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "pageWidth": 1280,
+      "pageHeight": 5921,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 81,
+        "bottom": 81,
+        "right": 1280
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/privacy",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "pageWidth": 1280,
+      "pageHeight": 1927,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 81,
+        "bottom": 81,
+        "right": 1280
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/404.html",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "pageWidth": 1280,
+      "pageHeight": 900,
+      "header": null,
+      "images": 0,
+      "issues": []
+    },
+    {
+      "route": "/blog",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "pageWidth": 1440,
+      "pageHeight": 2389,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 81,
+        "bottom": 81,
+        "right": 1440
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "pageWidth": 1440,
+      "pageHeight": 7309,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 81,
+        "bottom": 81,
+        "right": 1440
+      },
+      "images": 10,
+      "issues": []
+    },
+    {
+      "route": "/company",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "pageWidth": 1440,
+      "pageHeight": 4028,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 81,
+        "bottom": 81,
+        "right": 1440
+      },
+      "images": 3,
+      "issues": []
+    },
+    {
+      "route": "/games",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "pageWidth": 1440,
+      "pageHeight": 3582,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 81,
+        "bottom": 81,
+        "right": 1440
+      },
+      "images": 13,
+      "issues": []
+    },
+    {
+      "route": "/join-us",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "pageWidth": 1440,
+      "pageHeight": 1664,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 81,
+        "bottom": 81,
+        "right": 1440
+      },
+      "images": 2,
+      "issues": []
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "pageWidth": 1440,
+      "pageHeight": 7561,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 81,
+        "bottom": 81,
+        "right": 1440
+      },
+      "images": 6,
+      "issues": []
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "pageWidth": 1440,
+      "pageHeight": 5891,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 81,
+        "bottom": 81,
+        "right": 1440
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "pageWidth": 1440,
+      "pageHeight": 5986,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 81,
+        "bottom": 81,
+        "right": 1440
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "pageWidth": 1440,
+      "pageHeight": 7227,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 81,
+        "bottom": 81,
+        "right": 1440
+      },
+      "images": 7,
+      "issues": []
+    },
+    {
+      "route": "/404.html",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "pageWidth": 1440,
+      "pageHeight": 900,
+      "header": null,
+      "images": 0,
+      "issues": []
+    },
+    {
+      "route": "/privacy",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "pageWidth": 1440,
+      "pageHeight": 1955,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 81,
+        "bottom": 81,
+        "right": 1440
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/blog",
+      "viewport": {
+        "width": 1920,
+        "height": 900
+      },
+      "pageWidth": 1920,
+      "pageHeight": 2400,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 81,
+        "bottom": 81,
+        "right": 1920
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/company",
+      "viewport": {
+        "width": 1920,
+        "height": 900
+      },
+      "pageWidth": 1920,
+      "pageHeight": 4104,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 81,
+        "bottom": 81,
+        "right": 1920
+      },
+      "images": 3,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "viewport": {
+        "width": 1920,
+        "height": 900
+      },
+      "pageWidth": 1920,
+      "pageHeight": 7496,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 81,
+        "bottom": 81,
+        "right": 1920
+      },
+      "images": 10,
+      "issues": []
+    },
+    {
+      "route": "/games",
+      "viewport": {
+        "width": 1920,
+        "height": 900
+      },
+      "pageWidth": 1920,
+      "pageHeight": 3605,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 81,
+        "bottom": 81,
+        "right": 1920
+      },
+      "images": 13,
+      "issues": []
+    },
+    {
+      "route": "/join-us",
+      "viewport": {
+        "width": 1920,
+        "height": 900
+      },
+      "pageWidth": 1920,
+      "pageHeight": 1676,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 81,
+        "bottom": 81,
+        "right": 1920
+      },
+      "images": 2,
+      "issues": []
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions",
+      "viewport": {
+        "width": 1920,
+        "height": 900
+      },
+      "pageWidth": 1920,
+      "pageHeight": 7586,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 81,
+        "bottom": 81,
+        "right": 1920
+      },
+      "images": 6,
+      "issues": []
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+      "viewport": {
+        "width": 1920,
+        "height": 900
+      },
+      "pageWidth": 1920,
+      "pageHeight": 5916,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 81,
+        "bottom": 81,
+        "right": 1920
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/privacy",
+      "viewport": {
+        "width": 1920,
+        "height": 900
+      },
+      "pageWidth": 1920,
+      "pageHeight": 1978,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 81,
+        "bottom": 81,
+        "right": 1920
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+      "viewport": {
+        "width": 1920,
+        "height": 900
+      },
+      "pageWidth": 1920,
+      "pageHeight": 6012,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 81,
+        "bottom": 81,
+        "right": 1920
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+      "viewport": {
+        "width": 1920,
+        "height": 900
+      },
+      "pageWidth": 1920,
+      "pageHeight": 7253,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 81,
+        "bottom": 81,
+        "right": 1920
+      },
+      "images": 7,
+      "issues": []
+    },
+    {
+      "route": "/404.html",
+      "viewport": {
+        "width": 1920,
+        "height": 900
+      },
+      "pageWidth": 1920,
+      "pageHeight": 900,
+      "header": null,
+      "images": 0,
+      "issues": []
+    },
+    {
+      "route": "/blog",
+      "viewport": {
+        "width": 2560,
+        "height": 900
+      },
+      "pageWidth": 2560,
+      "pageHeight": 2400,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 2560,
+        "height": 81,
+        "bottom": 81,
+        "right": 2560
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/company",
+      "viewport": {
+        "width": 2560,
+        "height": 900
+      },
+      "pageWidth": 2560,
+      "pageHeight": 4104,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 2560,
+        "height": 81,
+        "bottom": 81,
+        "right": 2560
+      },
+      "images": 3,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "viewport": {
+        "width": 2560,
+        "height": 900
+      },
+      "pageWidth": 2560,
+      "pageHeight": 7503,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 2560,
+        "height": 81,
+        "bottom": 81,
+        "right": 2560
+      },
+      "images": 10,
+      "issues": []
+    },
+    {
+      "route": "/games",
+      "viewport": {
+        "width": 2560,
+        "height": 900
+      },
+      "pageWidth": 2560,
+      "pageHeight": 3605,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 2560,
+        "height": 81,
+        "bottom": 81,
+        "right": 2560
+      },
+      "images": 13,
+      "issues": []
+    },
+    {
+      "route": "/join-us",
+      "viewport": {
+        "width": 2560,
+        "height": 900
+      },
+      "pageWidth": 2560,
+      "pageHeight": 1676,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 2560,
+        "height": 81,
+        "bottom": 81,
+        "right": 2560
+      },
+      "images": 2,
+      "issues": []
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions",
+      "viewport": {
+        "width": 2560,
+        "height": 900
+      },
+      "pageWidth": 2560,
+      "pageHeight": 7586,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 2560,
+        "height": 81,
+        "bottom": 81,
+        "right": 2560
+      },
+      "images": 6,
+      "issues": []
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+      "viewport": {
+        "width": 2560,
+        "height": 900
+      },
+      "pageWidth": 2560,
+      "pageHeight": 5916,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 2560,
+        "height": 81,
+        "bottom": 81,
+        "right": 2560
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+      "viewport": {
+        "width": 2560,
+        "height": 900
+      },
+      "pageWidth": 2560,
+      "pageHeight": 7253,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 2560,
+        "height": 81,
+        "bottom": 81,
+        "right": 2560
+      },
+      "images": 7,
+      "issues": []
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+      "viewport": {
+        "width": 2560,
+        "height": 900
+      },
+      "pageWidth": 2560,
+      "pageHeight": 6012,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 2560,
+        "height": 81,
+        "bottom": 81,
+        "right": 2560
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/404.html",
+      "viewport": {
+        "width": 2560,
+        "height": 900
+      },
+      "pageWidth": 2560,
+      "pageHeight": 900,
+      "header": null,
+      "images": 0,
+      "issues": []
+    },
+    {
+      "route": "/privacy",
+      "viewport": {
+        "width": 2560,
+        "height": 900
+      },
+      "pageWidth": 2560,
+      "pageHeight": 1978,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 2560,
+        "height": 81,
+        "bottom": 81,
+        "right": 2560
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/blog",
+      "viewport": {
+        "width": 3840,
+        "height": 900
+      },
+      "pageWidth": 3840,
+      "pageHeight": 2400,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 3840,
+        "height": 81,
+        "bottom": 81,
+        "right": 3840
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/company",
+      "viewport": {
+        "width": 3840,
+        "height": 900
+      },
+      "pageWidth": 3840,
+      "pageHeight": 4104,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 3840,
+        "height": 81,
+        "bottom": 81,
+        "right": 3840
+      },
+      "images": 3,
+      "issues": []
+    },
+    {
+      "route": "/games",
+      "viewport": {
+        "width": 3840,
+        "height": 900
+      },
+      "pageWidth": 3840,
+      "pageHeight": 3605,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 3840,
+        "height": 81,
+        "bottom": 81,
+        "right": 3840
+      },
+      "images": 13,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "viewport": {
+        "width": 3840,
+        "height": 900
+      },
+      "pageWidth": 3840,
+      "pageHeight": 7503,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 3840,
+        "height": 81,
+        "bottom": 81,
+        "right": 3840
+      },
+      "images": 10,
+      "issues": []
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions",
+      "viewport": {
+        "width": 3840,
+        "height": 900
+      },
+      "pageWidth": 3840,
+      "pageHeight": 7586,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 3840,
+        "height": 81,
+        "bottom": 81,
+        "right": 3840
+      },
+      "images": 6,
+      "issues": []
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+      "viewport": {
+        "width": 3840,
+        "height": 900
+      },
+      "pageWidth": 3840,
+      "pageHeight": 5916,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 3840,
+        "height": 81,
+        "bottom": 81,
+        "right": 3840
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/join-us",
+      "viewport": {
+        "width": 3840,
+        "height": 900
+      },
+      "pageWidth": 3840,
+      "pageHeight": 1676,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 3840,
+        "height": 81,
+        "bottom": 81,
+        "right": 3840
+      },
+      "images": 2,
+      "issues": []
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+      "viewport": {
+        "width": 3840,
+        "height": 900
+      },
+      "pageWidth": 3840,
+      "pageHeight": 7253,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 3840,
+        "height": 81,
+        "bottom": 81,
+        "right": 3840
+      },
+      "images": 7,
+      "issues": []
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+      "viewport": {
+        "width": 3840,
+        "height": 900
+      },
+      "pageWidth": 3840,
+      "pageHeight": 6012,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 3840,
+        "height": 81,
+        "bottom": 81,
+        "right": 3840
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/404.html",
+      "viewport": {
+        "width": 3840,
+        "height": 900
+      },
+      "pageWidth": 3840,
+      "pageHeight": 900,
+      "header": null,
+      "images": 0,
+      "issues": []
+    },
+    {
+      "route": "/privacy",
+      "viewport": {
+        "width": 3840,
+        "height": 900
+      },
+      "pageWidth": 3840,
+      "pageHeight": 1978,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 3840,
+        "height": 81,
+        "bottom": 81,
+        "right": 3840
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/blog",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "pageWidth": 844,
+      "pageHeight": 2200,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 844,
+        "height": 81,
+        "bottom": 81,
+        "right": 844
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "pageWidth": 844,
+      "pageHeight": 8101,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 844,
+        "height": 81,
+        "bottom": 81,
+        "right": 844
+      },
+      "images": 10,
+      "issues": []
+    },
+    {
+      "route": "/company",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "pageWidth": 844,
+      "pageHeight": 3818,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 844,
+        "height": 81,
+        "bottom": 81,
+        "right": 844
+      },
+      "images": 3,
+      "issues": []
+    },
+    {
+      "route": "/games",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "pageWidth": 844,
+      "pageHeight": 3518,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 844,
+        "height": 81,
+        "bottom": 81,
+        "right": 844
+      },
+      "images": 13,
+      "issues": []
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "pageWidth": 844,
+      "pageHeight": 7906,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 844,
+        "height": 81,
+        "bottom": 81,
+        "right": 844
+      },
+      "images": 6,
+      "issues": []
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "pageWidth": 844,
+      "pageHeight": 6270,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 844,
+        "height": 81,
+        "bottom": 81,
+        "right": 844
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/join-us",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "pageWidth": 844,
+      "pageHeight": 1583,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 844,
+        "height": 81,
+        "bottom": 81,
+        "right": 844
+      },
+      "images": 2,
+      "issues": []
+    },
+    {
+      "route": "/privacy",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "pageWidth": 844,
+      "pageHeight": 1849,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 844,
+        "height": 81,
+        "bottom": 81,
+        "right": 844
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "pageWidth": 844,
+      "pageHeight": 6313,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 844,
+        "height": 81,
+        "bottom": 81,
+        "right": 844
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "pageWidth": 844,
+      "pageHeight": 7514,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 844,
+        "height": 81,
+        "bottom": 81,
+        "right": 844
+      },
+      "images": 7,
+      "issues": []
+    },
+    {
+      "route": "/404.html",
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "pageWidth": 844,
+      "pageHeight": 392,
+      "header": null,
+      "images": 0,
+      "issues": []
+    },
+    {
+      "route": "/blog",
+      "viewport": {
+        "width": 1024,
+        "height": 600
+      },
+      "pageWidth": 1024,
+      "pageHeight": 2242,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "viewport": {
+        "width": 1024,
+        "height": 600
+      },
+      "pageWidth": 1024,
+      "pageHeight": 8427,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 10,
+      "issues": []
+    },
+    {
+      "route": "/company",
+      "viewport": {
+        "width": 1024,
+        "height": 600
+      },
+      "pageWidth": 1024,
+      "pageHeight": 3750,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 3,
+      "issues": []
+    },
+    {
+      "route": "/games",
+      "viewport": {
+        "width": 1024,
+        "height": 600
+      },
+      "pageWidth": 1024,
+      "pageHeight": 3510,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 13,
+      "issues": []
+    },
+    {
+      "route": "/join-us",
+      "viewport": {
+        "width": 1024,
+        "height": 600
+      },
+      "pageWidth": 1024,
+      "pageHeight": 1617,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 2,
+      "issues": []
+    },
+    {
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions",
+      "viewport": {
+        "width": 1024,
+        "height": 600
+      },
+      "pageWidth": 1024,
+      "pageHeight": 7896,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 6,
+      "issues": []
+    },
+    {
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream",
+      "viewport": {
+        "width": 1024,
+        "height": 600
+      },
+      "pageWidth": 1024,
+      "pageHeight": 6327,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention",
+      "viewport": {
+        "width": 1024,
+        "height": 600
+      },
+      "pageWidth": 1024,
+      "pageHeight": 7655,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 7,
+      "issues": []
+    },
+    {
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch",
+      "viewport": {
+        "width": 1024,
+        "height": 600
+      },
+      "pageWidth": 1024,
+      "pageHeight": 6378,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 5,
+      "issues": []
+    },
+    {
+      "route": "/privacy",
+      "viewport": {
+        "width": 1024,
+        "height": 600
+      },
+      "pageWidth": 1024,
+      "pageHeight": 1875,
+      "header": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 81,
+        "bottom": 81,
+        "right": 1024
+      },
+      "images": 1,
+      "issues": []
+    },
+    {
+      "route": "/404.html",
+      "viewport": {
+        "width": 1024,
+        "height": 600
+      },
+      "pageWidth": 1024,
+      "pageHeight": 600,
+      "header": null,
+      "images": 0,
+      "issues": []
+    }
+  ],
+  "errors": [],
+  "failures": []
+}

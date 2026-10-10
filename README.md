@@ -8,6 +8,8 @@ Requires Node.js 22 or later. No dependency installation is needed. Run `npm run
 
 ## Improvements
 
+- Fluid layouts replace Wix fixed dimensions across all ten content pages. The header starts at the top without an empty band.
+- Proportional images, separate product screenshot panels, aligned image/text cards, and responsive grids for phones, tablets and wide screens. Full software screenshots use contain rather than crop.
 - Scroll entrance animations, menu transitions, button feedback, reading progress and back-to-top.
 - Reduced-motion support, explicit motion toggle, still logo alternatives, and videos that load near the viewport and pause offscreen or in hidden tabs.
 - Touch-friendly product gallery, previous/next controls and product-description anchors.
@@ -34,7 +36,7 @@ Sharing and image expansion work. Persistent member login, comments, likes and c
 
 ## Verification and files
 
-The original pages passed 27 viewport checks, plus 70 additional checks including the privacy page. The final source passed 20 smoke checks, and the hosted website passed 20 mobile/desktop checks, product navigation and the custom 404. Tested widths: 320, 360, 390, 600, 768, 844, 900, 1024, 1440 and 1920, including landscape. Interaction checks cover menus, products, jobs, motion controls, sharing and mocked form responses. Browser testing used Edge/Chromium; Safari and Firefox should be checked before switching the production domain.
+The responsive rebuild passed 176 page/viewport checks: all eleven pages at fourteen widths from 320 to 3840 pixels and two landscape sizes. Checks cover loaded images, proportions, horizontal overflow, header geometry, image/text card boundaries, anchors and primary control sizes. Eighteen additional checks cover menus/focus, products, all four job choices, all article text and captions, sharing, image expansion, motion controls, manual video playback and mocked form responses. No real form submissions were sent. Browser testing used Edge/Chromium; physical devices, Safari and Firefox have not been verified.
 
-Editable source is in `site/`, commands in `scripts/`, reports and screenshots in `migration/`. Generated `dist/` is excluded from Git. See `migration/STATUS.md` for publishing status.
+Editable source is in `site/`, shared responsive styling is in `site/layout.css`, commands are in `scripts/`, and reports/screenshots are in `migration/`. Generated `dist/` is excluded from Git. See `migration/STATUS.md` for publishing status.
 

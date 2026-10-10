@@ -1,0 +1,83 @@
+{
+  "checkedAt": "2026-10-10T11:49:20.462Z",
+  "base": "http://127.0.0.1:4173/",
+  "browser": "Edge / Chromium",
+  "checks": [
+    {
+      "check": "Menu, scroll, Escape and focus return",
+      "size": {
+        "width": 320,
+        "height": 568
+      }
+    },
+    {
+      "check": "Menu, scroll, Escape and focus return",
+      "size": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "check": "Menu, scroll, Escape and focus return",
+      "size": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "check": "Menu, scroll, Escape and focus return",
+      "size": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "check": "Product arrows, keyboard scrolling and description anchors"
+    },
+    {
+      "check": "Four job applications preselect their role"
+    },
+    {
+      "check": "Article content and captions preserved",
+      "route": "/post/boost-your-gaming-experience-with-advanced-solutions"
+    },
+    {
+      "check": "Article content and captions preserved",
+      "route": "/post/creating-immersive-live-experiences-the-secrets-behind-the-stream"
+    },
+    {
+      "check": "Article content and captions preserved",
+      "route": "/post/engaging-your-live-audience-in-2025-top-10-strategies-to-boost-viewer-retention"
+    },
+    {
+      "check": "Article content and captions preserved",
+      "route": "/post/exploring-the-future-of-live-streaming-innovations-and-technologies-to-watch"
+    },
+    {
+      "check": "Article image expansion and Escape"
+    },
+    {
+      "check": "Article sharing feedback"
+    },
+    {
+      "check": "Unconfigured form accurately reports no submission"
+    },
+    {
+      "check": "Configured form succeeds only after accepted response (mock)"
+    },
+    {
+      "check": "Failed form preserves fields (mock)"
+    },
+    {
+      "check": "Reduced motion avoids autoplay; native video can be played manually"
+    },
+    {
+      "check": "Motion preference controls"
+    },
+    {
+      "check": "Newsletter requires email and consent"
+    }
+  ],
+  "errors": [],
+  "realSubmissionsSent": false
+}

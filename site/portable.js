@@ -68,7 +68,11 @@
       if (event.target === menu || event.target.closest('[data-hook="hamburger-overlay-dialog"]')) closeMenu();
     });
   });
-  openers.forEach(button => button.addEventListener('click', () => openMenu(button)));
+  openers.forEach(button => {
+    button.setAttribute('aria-haspopup', 'dialog');
+    button.setAttribute('aria-expanded', 'false');
+    button.addEventListener('click', () => openMenu(button));
+  });
   // The live site's header also contains a custom vector menu icon.
   document.querySelectorAll('button.wixui-vector-image').forEach(button => {
     if (!button.closest('header,#SITE_HEADER,[data-semantic-classname="header"]')) return;
@@ -109,7 +113,15 @@
     });
     updateVideos();
   }, {rootMargin:'120px 0px'});
-  videos.forEach(video => { video.muted = true; videoObserver.observe(video); });
+  videos.forEach(video => {
+    video.muted = true;
+    videoObserver.observe(video);
+    // Native controls also work when automatic motion is disabled.
+    video.addEventListener('pointerdown', () => loadVideo(video));
+    video.addEventListener('keydown', event => {
+      if ([' ', 'Enter', 'MediaPlayPause'].includes(event.key)) loadVideo(video);
+    });
+  });
   document.addEventListener('visibilitychange', updateVideos);
   document.querySelectorAll('[data-testid="vb-audio"],[data-testid="vb-play"],[data-testid="vb-play-pause"]').forEach(control => {
     const activate = () => {
@@ -126,6 +138,13 @@
     control.addEventListener('keydown', event => { if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); activate(); } });
   });
   document.querySelectorAll('form[data-portable-form]').forEach(form => {
+    const nativePosition = form.querySelector('select[name="Open Positions"]');
+    const requestedPosition = new URLSearchParams(location.search).get('position');
+    if (nativePosition && [...nativePosition.options].some(option => option.value === requestedPosition)) nativePosition.value = requestedPosition;
+    form.querySelectorAll('[data-form-unavailable]').forEach(note => {
+      const key = note.dataset.formUnavailable === 'newsletter' ? 'newsletterEndpoint' : 'contactEndpoint';
+      note.hidden = Boolean(window.STREAMLAB_CONFIG?.forms?.[key]);
+    });
     form.querySelectorAll('[data-hook="dropdown-base"][aria-label="Open Positions"]').forEach(button => {
       const select = document.createElement('select');
       select.name = 'Open Positions'; select.setAttribute('aria-label', 'Open Positions');
@@ -247,7 +266,7 @@
         {duration:650,easing:'cubic-bezier(.16,1,.3,1)'});
     });
   }, {threshold:.1});
-  document.querySelectorAll('main .wixui-rich-text,main .portable-product-card').forEach(element => entranceObserver.observe(element));
+  document.querySelectorAll('main .wixui-rich-text,main .portable-product-card,main .sl-card,main .sl-career').forEach(element => entranceObserver.observe(element));
 
   const animatedImages = [...document.images].filter(img => /\.gif(?:$|\?)/i.test(img.src)).map(img => ({
     img, original:img.getAttribute('src'),
