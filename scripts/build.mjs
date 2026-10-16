@@ -45,4 +45,8 @@ await writeFile(path.join(root,'dist','sitemap.xml'),'<?xml version="1.0" encodi
 await writeFile(path.join(root,'dist','robots.txt'),`User-agent: *\n${indexSite?'Allow: /':'Disallow: /'}\nSitemap: ${new URL('sitemap.xml',base).href}\n`);
 const feed='<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Streamlab Platform News</title><link>'+xml(new URL('blog/',base).href)+'</link><description>News and ideas from Streamlab Platform.</description>'+posts.map(post=>`<item><title>${xml(post.title)}</title><link>${xml(post.link)}</link><guid isPermaLink="true">${xml(post.link)}</guid><description>${xml(post.description)}</description>${post.published?'<pubDate>'+new Date(post.published).toUTCString()+'</pubDate>':''}</item>`).join('')+'</channel></rss>';
 await writeFile(path.join(root,'dist','blog-feed.xml'),feed);
+// Keep a static root fallback for repositories whose Pages source is still branch-based.
+for (const name of ['index.html','404.html','assets','games','company','blog','post','join-us','privacy','design.css','experience.js','sitemap.xml','robots.txt','blog-feed.xml','.nojekyll']) {
+  await cp(path.join(root,'dist',name), path.join(root,name), {recursive:true});
+}
 console.log(`Built ${routes.length} pages in dist/ for ${base.href} (${indexSite?'indexable':'migration preview; noindex'})`);

@@ -35,7 +35,7 @@ Prompt direction for all generated assets: cinematic 3D, dark midnight navy, tra
 
 ## Deployment
 
-Pushes to `main` run the existing GitHub Pages workflow. It checks the source, builds deployment-aware canonical metadata, sitemap and RSS feed, then deploys `dist/`.
+Pushes to `main` run the existing GitHub Pages workflow. The build also refreshes a generated static root mirror, so branch-based Pages publishing cannot replace the website with the README. Edit `site/` and run the build to update both outputs. It checks the source, builds deployment-aware canonical metadata, sitemap and RSS feed, then deploys `dist/`.
 
 GitHub Pages: https://vimplayapi-cpu.github.io/streamlab.github.io/
 

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://vimplayapi-cpu.github.io/streamlab.github.io/sitemap.xml
