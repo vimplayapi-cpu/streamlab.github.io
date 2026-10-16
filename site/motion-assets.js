@@ -1,1 +1,0 @@
-window.STREAMLAB_MOTION_ASSETS={"f5360bbb6d59f49d6c472742.gif":"f5360bbb6d59f49d6c472742.still.png"};

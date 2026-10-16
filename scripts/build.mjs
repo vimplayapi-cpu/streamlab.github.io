@@ -1,7 +1,8 @@
-import { cp, mkdir, writeFile, readFile, readdir } from 'node:fs/promises';
+import { cp, mkdir, writeFile, readFile, readdir, rm } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 const root = fileURLToPath(new URL('../', import.meta.url));
+await rm(path.join(root, 'dist'), { recursive: true, force: true });
 await mkdir(path.join(root, 'dist'), { recursive: true });
 await cp(path.join(root, 'site'), path.join(root, 'dist'), { recursive: true });
 await writeFile(path.join(root, 'dist', '.nojekyll'), '');
@@ -33,6 +34,7 @@ async function metadata(directory) {
     html=html.replaceAll('https://www.streamlabplatform.com',base.href.replace(/\/$/,''));
     html=html.replace(/<meta\b[^>]*(?:property|name)="(?:og:image|twitter:image)"[^>]*>/gi,tag=>tag.replace(/content="([^"]+)"/,(_,value)=>`content="${new URL(value,new URL(route,base)).href}"`));
     html=html.replace(/<meta\b[^>]*(?:property|name)="(?:og:title|twitter:title)"[^>]*>/gi,tag=>tag.replace(/content="[^"]*"/,`content="${title}"`));
+    if(entry.name==='404.html') html=html.replace('<head>',`<head><base href="${base.href}">`);
     html=html.replace('</head>',`<link rel="canonical" href="${canonical}"><meta property="og:url" content="${canonical}"><meta name="robots" content="${indexSite&&entry.name!=='404.html'?'index,follow':'noindex,follow'}"></head>`);
     await writeFile(file,html);
     if(entry.name!=='404.html')routes.push(canonical);
