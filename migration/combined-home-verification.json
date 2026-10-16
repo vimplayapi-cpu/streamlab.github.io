@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-16",
+  "change": "Combine cinematic first-design hero and studio section with current interactive product homepage",
+  "source_pages": 11,
+  "local_references": 442,
+  "checks": {
+    "links_fragments_images": "passed",
+    "html_structure": "passed across all 11 pages",
+    "javascript_syntax": "passed",
+    "build": "passed",
+    "retired_wix_product_images": "three assets removed from source and root publishing mirror"
+  },
+  "assets": [
+    "streamsphere-concept.webp",
+    "edit-pro-concept.webp",
+    "analytics-concept.webp",
+    "streamsense-concept.webp"
+  ],
+  "browser": "Pending publication",
+  "disclosure": "All four new product images are illustrative interface concepts; the real logo is retained; interactive workflows use sample data."
+}

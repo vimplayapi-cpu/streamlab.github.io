@@ -45,10 +45,12 @@ The existing Wix production domain is not reassigned. The Pages preview remains 
 
 Run `npm run check` for local file references, fragment destinations, document structure, inline JSON-LD validity and required interaction hooks. Run `node --check site/experience.js` for JavaScript syntax. Browser checks and their limits for the redesign are recorded in `migration/redesign-verification.json`; older migration screenshots and reports describe the previous implementation.
 
-## Product tour update
+## Combined homepage and new product visuals
 
-The homepage now leads with product interface visuals recovered from the original website, instead of abstract artwork. Home and Products include an interactive browser-only workflow illustration with scene selection, title overlay, sample audio controls, timeline scrubbing and title editing, and sample analytics with period controls and focusable chart values. These are labelled as illustrative previews, not live software sessions or customer metrics.
+The homepage combines the cinematic glass hero and studio banner from the first redesign with the interactive product tour, production journey, natural editorial imagery, product cards, services and journal from the newer version. All three old Wix product images are removed from the published assets.
 
-`site/product-tour.css` and `site/product-tour.js` own these features. The product gallery opens the original website visuals in a keyboard-accessible native dialog. The production journey includes keyboard-selectable stages, animated signal paths, pointer lighting, and scroll progress. Motion honours the shared page setting.
+Four newly generated interface concepts now illustrate Streamsphere, Edit Pro, Analytics and StreamSense, in `site/assets/new/streamsphere-concept.webp`, `edit-pro-concept.webp`, `analytics-concept.webp` and `streamsense-concept.webp`. The real company logo remains unchanged. The gallery and captions identify these as concepts, not actual software screenshots. StreamSense remains labelled coming soon.
 
-Additional built-in GPT image assets: `site/assets/new/demo-coast.webp` (sample coastal documentary frame) and `site/assets/new/production-team.webp` (labelled editorial illustration). Prompt direction: believable documentary photography, natural teal/peach grade, no text, logos, watermark or fabricated company identity; the production team is illustrative, not actual staff.
+Prompt direction: consistent dark navy desktop software interfaces, clear mint/lavender/peach accents, organized scene controls, edit tracks, sample audience charts and an upcoming AI planning workspace, respectively. These assets used the built-in GPT image generation tool and were optimized to WebP.
+
+`site/product-tour.css` and `site/product-tour.js` implement scene selection, sample audio controls, title editing, timeline scrubbing, sample analytics, keyboard tabs, image enlargement, pointer lighting and production stages. These are local browser illustrations, not actual software integrations or real customer metrics.

@@ -21,19 +21,20 @@
     });
   }
   const heroImage = document.querySelector('[data-hero-screenshot]');
-  const originalProducts = {
-    live: ['product-live.png','Streamsphere / live production'],
-    editor: ['product-editor.jpg','Streamlab Edit Pro'],
-    analytics: ['product-analytics.jpg','Streamlab Analytics']
+  const productConcepts = {
+    live: ['streamsphere-concept.webp','Streamsphere / live production'],
+    editor: ['edit-pro-concept.webp','Streamlab Edit Pro'],
+    analytics: ['analytics-concept.webp','Streamlab Analytics']
   };
   document.querySelectorAll('[data-hero-product]').forEach(button => button.addEventListener('click', () => {
-    const [file, title] = originalProducts[button.dataset.heroProduct];
+    const [file, title] = productConcepts[button.dataset.heroProduct];
     const prefix = heroImage.getAttribute('src').split('assets/new/')[0];
     heroImage.src = `${prefix}assets/new/${file}`;
-    heroImage.alt = `Original Streamlab website product visual: ${title}`;
+    heroImage.alt = `Streamlab product interface concept: ${title}`;
     document.querySelector('[data-hero-product-title]').textContent = title;
     const opener = heroImage.closest('[data-image-view]');
     opener.dataset.imageView = heroImage.getAttribute('src'); opener.dataset.imageTitle = title;
+    opener.setAttribute('aria-label', `Enlarge ${title} concept`);
     document.querySelectorAll('[data-hero-product]').forEach(item => item.setAttribute('aria-pressed', String(item === button)));
   }));
   const dialog = document.querySelector('.image-dialog');
@@ -42,7 +43,7 @@
     document.querySelectorAll('[data-image-view]').forEach(button => button.addEventListener('click', () => {
       returnFocus = button;
       dialog.querySelector('[data-image-dialog-image]').src = button.dataset.imageView;
-      dialog.querySelector('[data-image-dialog-image]').alt = `Original product visual: ${button.dataset.imageTitle}`;
+      dialog.querySelector('[data-image-dialog-image]').alt = `Product interface concept: ${button.dataset.imageTitle}`;
       dialog.querySelector('[data-image-dialog-title]').textContent = button.dataset.imageTitle;
       dialog.showModal();
     }));
