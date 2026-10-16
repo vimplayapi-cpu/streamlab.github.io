@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-16",
+  "scope": "Product-first trust and demo improvement",
+  "source_pages": 11,
+  "local_references": 435,
+  "checks": {
+    "balanced_html": "passed across all 11 pages",
+    "fragments_and_local_resources": "passed",
+    "javascript_syntax": "passed",
+    "static_build": "passed"
+  },
+  "new_features": [
+    "Original website interface gallery and enlarged previews",
+    "Live studio scene and title controls",
+    "Sample audio mixer",
+    "Editable title and timeline scrubber",
+    "Sample analytics periods and focusable chart values",
+    "Keyboard-selectable production workflow",
+    "Pointer lighting and animated signal flow",
+    "Responsive controls and reduced-motion support"
+  ],
+  "browser_verification": "Pending hosted deployment",
+  "disclosure": "Interactive panels illustrate workflows and do not connect to production software or real customer analytics. Production team image is labelled as an AI-generated editorial illustration."
+}

@@ -44,3 +44,11 @@ The existing Wix production domain is not reassigned. The Pages preview remains 
 ## Verification
 
 Run `npm run check` for local file references, fragment destinations, document structure, inline JSON-LD validity and required interaction hooks. Run `node --check site/experience.js` for JavaScript syntax. Browser checks and their limits for the redesign are recorded in `migration/redesign-verification.json`; older migration screenshots and reports describe the previous implementation.
+
+## Product tour update
+
+The homepage now leads with product interface visuals recovered from the original website, instead of abstract artwork. Home and Products include an interactive browser-only workflow illustration with scene selection, title overlay, sample audio controls, timeline scrubbing and title editing, and sample analytics with period controls and focusable chart values. These are labelled as illustrative previews, not live software sessions or customer metrics.
+
+`site/product-tour.css` and `site/product-tour.js` own these features. The product gallery opens the original website visuals in a keyboard-accessible native dialog. The production journey includes keyboard-selectable stages, animated signal paths, pointer lighting, and scroll progress. Motion honours the shared page setting.
+
+Additional built-in GPT image assets: `site/assets/new/demo-coast.webp` (sample coastal documentary frame) and `site/assets/new/production-team.webp` (labelled editorial illustration). Prompt direction: believable documentary photography, natural teal/peach grade, no text, logos, watermark or fabricated company identity; the production team is illustrative, not actual staff.
