@@ -19,6 +19,28 @@
     "Pointer lighting and animated signal flow",
     "Responsive controls and reduced-motion support"
   ],
-  "browser_verification": "Pending hosted deployment",
+  "browser_verification": {
+    "browser": "Chromium",
+    "viewport": "1363px desktop",
+    "passed": [
+      "Homepage product image switching",
+      "Studio scene selection updates frame and title",
+      "Mute sample microphone state",
+      "Preview start and automatic stop on tab switch",
+      "Editor title input and accent colour",
+      "Timeline keyboard scrub to 48 seconds updates clip and frame",
+      "Keyboard ArrowRight selects analytics panel",
+      "30-day sample dataset updates values",
+      "Chart value inspection by focus/click",
+      "Production workflow stage content changes",
+      "Image dialog opens original asset",
+      "Escape closes dialog and restores focus",
+      "No horizontal overflow on reviewed homepage"
+    ],
+    "limits": [
+      "Physical mobile/tablet devices and other browser engines not tested",
+      "Demos illustrate workflows; actual product integration is outside this static repository"
+    ]
+  },
   "disclosure": "Interactive panels illustrate workflows and do not connect to production software or real customer analytics. Production team image is labelled as an AI-generated editorial illustration."
 }

@@ -6,7 +6,7 @@ await rm(path.join(root, 'dist'), { recursive: true, force: true });
 await mkdir(path.join(root, 'dist'), { recursive: true });
 await cp(path.join(root, 'site'), path.join(root, 'dist'), { recursive: true });
 await writeFile(path.join(root, 'dist', '.nojekyll'), '');
-const base = new URL((process.env.SITE_URL || 'http://127.0.0.1:4173').replace(/\/$/,'')+'/');
+const base = new URL((process.env.SITE_URL || 'https://vimplayapi-cpu.github.io/streamlab.github.io').replace(/\/$/,'')+'/');
 if (!['http:','https:'].includes(base.protocol)) throw new Error('SITE_URL must use HTTP or HTTPS');
 const indexSite = process.env.INDEX_SITE === 'true';
 const routes = [];
