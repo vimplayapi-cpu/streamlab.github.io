@@ -10,3 +10,36 @@
 @media(max-width:760px){.hero{display:flex;gap:0;min-height:0;padding-top:58px;padding-bottom:65px}.hero h1{font-size:clamp(61px,11vw,85px)}.hero .hero-art{margin-top:-15px;margin-bottom:-15px}.product-bridge .hero-product-bar{padding:12px}.product-bridge .hero-product-bar strong{font-size:9px}.product-bridge .hero-product-bar small{font-size:6px}.product-bridge .hero-product-switch button{font-size:10px;padding:10px 5px}.product-bridge .hero-product-note{font-size:8px;padding:12px}.product-bridge .hero-product-note a{font-size:8px}.cinema-studio+.section{padding-top:70px}}
 
 .concept-gallery{grid-template-columns:repeat(2,1fr)}.sense-product{display:flex;flex-direction:column;gap:16px;min-height:0}.sense-product img{width:100%;height:auto;object-fit:contain;border-radius:8px;border:1px solid #ffffff26;box-shadow:0 20px 70px #0005}.sense-product>span{font-size:7px;letter-spacing:1.5px;color:#738da1;align-self:flex-start}.sense-product .sense-core,.sense-product .sense-ring{display:none}@media(max-width:760px){.concept-gallery{grid-template-columns:1fr}.sense-product{order:2;margin-top:30px;max-width:none}.sense-product>span{font-size:6px}}
+
+/* Full-width, uncropped mobile artwork and usable product previews. */
+@media (max-width:760px) {
+  .hero h1 {font-size:clamp(48px,10.8vw,76px)}
+  .hero .hero-art {margin-top:28px;margin-bottom:20px}
+  .product-bridge .hero-product-bar {flex-wrap:wrap;gap:10px}
+  .product-bridge .hero-product-bar strong {flex:1;min-width:0;font-size:10px}
+  .product-bridge .hero-product-bar small {font-size:7px;letter-spacing:.7px}
+  .hero-product-switch button {min-width:0;min-height:44px}
+  .hero-screen-button>span {position:static;display:block;opacity:1;font-size:10px;margin:0;border-width:1px 0 0;border-radius:0;padding:10px;text-align:center}
+  .product-bridge .hero-screen-button>span {font-size:10px}
+  .detail-visual {aspect-ratio:auto}
+  .detail-visual img {width:100%;height:auto;object-fit:contain}
+  .detail-visual .detail-number {position:static;display:block;padding:12px;margin:0}
+  .detail-visual .visual-note {position:static;display:block;font-size:8px;padding:10px 12px;letter-spacing:.8px;line-height:1.6}
+  .sense-product {width:100%;max-width:100%;min-width:0}
+  .demo-frame,.editor-monitor>img {object-fit:contain}
+  .demo-screen.is-running .demo-frame {animation:none}
+  .screenshot-card:hover>img {transform:none}
+  .workflow-visual {min-width:0}
+  .flow-source {min-width:0;flex:1;overflow-wrap:anywhere}
+  .flow-hub {flex-shrink:0}
+  .signal-path {min-width:8px}
+  .sample-metrics>div {min-width:0}
+  .demo-tabs button {min-height:48px;min-width:0}
+  .editor-inspector input,.editor-inspector select {font-size:16px}
+}
+@media (max-width:370px) {
+  .header .button {font-size:10px;padding:10px 8px;gap:6px}
+  .header-right {gap:7px}
+  .hero-product-bar small {display:none}
+  .flow-hub strong {letter-spacing:.3px}
+}
