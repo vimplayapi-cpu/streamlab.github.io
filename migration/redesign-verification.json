@@ -19,8 +19,8 @@
     "local_preview": "Not available to cloud browser",
     "responsive_implementation": "Fluid layouts with 1100px, 760px and 370px breakpoints; keyboard mobile menu and reduced-motion handling",
     "physical_devices": "Not tested",
-    "hosted_review": "Pending deployment"
+    "hosted_review": "Home and Products visually reviewed in Chromium at 1363px; product anchor scroll and Contact navigation verified; Contact required fields and no horizontal overflow confirmed"
   },
   "contact": "Prepares mailto to existing demo address info@streamlab.com; visitor reviews and sends in email app; no server submission",
-  "deployment": "GitHub Pages via existing main branch workflow; Wix production domain unchanged; preview remains noindex"
+  "deployment": "Successful GitHub Pages deployment; root fallback added after branch publisher served README; source and fallback serve the same rebuilt website"
 }
